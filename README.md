@@ -13,23 +13,53 @@ Assemble a valuable collection of latest information and learning resources on N
 
 - Meta and Microsoft Introduce the Next Generation of Llama : https://about.fb.com/news/2023/07/llama-2 - 18/07/2023
 
+- Bard's latest update: more features, languages and countries : https://blog.google/products/bard/google-bard-new-features-update-july-2023 - 13/07/2023
+
 - Anthropic's 'friendly' AI chatbot, Claude, is now available for more people to try : https://www.theverge.com/2023/7/11/23790254/anthropic-claude-chatbot-ai-available-beta - Only available for USA and UK - 11/07/2023
 
-- Bard's latest update: more features, languages and countries : https://blog.google/products/bard/google-bard-new-features-update-july-2023 - 13/07/2023
+- AI tools are designing entirely new proteins that could transform medicine : https://www.nature.com/articles/d41586-023-02227-y - 11/07/2023
+
+
 
 - GPT-4 Architecture, datasets and costs leaked : https://the-decoder.com/gpt-4-architecture-datasets-costs-and-more-leaked - Mixture of Experts (MoE) - 11/07/2023
 
-- GPT-4's Secret Has Been Revealed : https://thealgorithmicbridge.substack.com/p/gpt-4s-secret-has-been-revealed -> https://twitter.com/swyx/status/1671272883379908608 (George Hotz) - GPT-4 - Mixture of smaller models - 24/06/2023
+- Meet LongLLaMA: A Large Language Model Capable of Handling Long Contexts of 256k Tokens : https://www.marktechpost.com/2023/07/10/meet-longllama-a-large-language-model-capable-of-handling-long-contexts-of-256k-tokens - https://github.com/cstankonrad/long_llama - 10/07/2023
 
 - Claude vs ChatGPT for Data Science: A Comparative Analysis : https://www.datacamp.com/blog/claude-vs-chatgpt-data-science-comparison  - 30/06/2023
 
 - Databricks Strikes $1.3 Billion Deal for Generative AI Startup MosaicML : https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06 - 30/06/2023
 
+- GPT-4's Secret Has Been Revealed : https://thealgorithmicbridge.substack.com/p/gpt-4s-secret-has-been-revealed -> https://twitter.com/swyx/status/1671272883379908608 (George Hotz) - GPT-4 - Mixture of smaller models - 24/06/2023
+
 - AI is killing the old web, and the new web struggles to be born : https://www.theverge.com/2023/6/26/23773914/ai-large-language-models-data-scraping-generation-remaking-web - 27/06/2023
 
 - AI Package Hallucinations : https://vulcan.io/blog/ai-hallucinations-package-risk - 06/06/2023
 
-- GPT-4 has more than a trillion parameters: https://the-decoder.com/gpt-4-has-a-trillion-parameters -  25/03/2023
+- Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models : https://huggingface.co/papers/2305.14705 -> https://arxiv.org/abs/2305.14705 - 24/05/2023
+
+- Meta open-sources multisensory AI model that combines six types of data : https://www.theverge.com/2023/5/9/23716558/meta-imagebind-open-source-multisensory-modal-ai-model-research - 10/05/2023
+
+- Google "We Have No Moat, And Neither Does OpenAI" : https://www.semianalysis.com/p/google-we-have-no-moat-and-neither - 04/05/2023
+
+- Model that uses machine learning methods and patient data at hospital arrival predicts strokes more accurately than current system : https://www.newswise.com/articles/machine-learning-model-predicts-strokes-more-accurately-than-current-system - 19/04/2023 
+
+- Adobe launches AI-powered text-based video editing : https://venturebeat.com/games/adobe-launches-ai-powered-text-based-video-editing - 13/04/2023 
+
+- The LLama Effect: How an Accidental Leak Sparked a Series of Impressive Open Source Alternatives to ChatGPT : https://thesequence.substack.com/p/the-llama-effect-how-an-accidental - 09/04/2023
+
+- Anthropic's $5B, 4-year plan to take on OpenAI : https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai - 07/04/2023
+
+- The takeaways from Stanford's 386-page report on the state of AI : https://techcrunch.com/2023/04/04/the-takeaways-from-stanfords-386-page-report-on-the-state-of-ai - 05/04/2023
+
+- Introducing BloombergGPT, Bloomberg’s 50-billion parameter large language model, purpose-built from scratch for finance : https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance - 30/03/2023
+
+- GPT-4 has more than a trillion parameters: https://the-decoder.com/gpt-4-has-a-trillion-parameters - 25/03/2023
+
+- Our latest health AI research updates : https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup - 14/03/2023
+
+- Introducing Claude : https://www.anthropic.com/index/introducing-claude - 14/03/2023
+
+- Alpaca: A Strong, Replicable Instruction-Following Model : https://crfm.stanford.edu/2023/03/13/alpaca.html - 13/03/2023
 
 - Meta's powerful AI language model has leaked online — what happens now?: https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse - 09/03/2023
 
