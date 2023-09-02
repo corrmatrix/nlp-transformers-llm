@@ -4,6 +4,57 @@ Assemble a valuable collection of latest information and learning resources on N
 
 ## Last News
 
+
+- Meta's Code Llama : https://ai.meta.com/blog/code-llama-large-language-model-coding/ - 24/08/2023
+
+- GPT-3.5 Turbo fine-tuning and API updates : https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates - 22/08/2023
+
+- Bringing the world closer together with a foundational multimodal model for speech translation : https://ai.meta.com/blog/seamless-m4t - 22/08/2023
+
+- AI2 Dolma: 3 Trillion Token Open Corpus for Language Model Pretraining : https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64 - 19/08/2023
+
+- Can You Run LLaMA and Llama-2 Ai Model Locally? : https://www.hardware-corner.net/run-llama-ai-locally/ (see also https://www.hardware-corner.net/guides/computer-to-run-llama-ai-model/) - 02/08/2023
+
+- Stability Diffusion - SD-XL 1.0-base Model Card : https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0 - 28/07/2023
+
+- Stack overflow search - OverflowAI : https://twitter.com/StackOverflow/status/1684530704850243584 - 27/07/2023
+
+- Meta's Open Source Llama Upsets the AI Horse Race: https://www.wired.com/story/metas-open-source-llama-upsets-the-ai-horse-race - 26/07/2023
+
+- Patterns for Building LLM-based Systems & Products : https://eugeneyan.com/writing/llm-patterns/ - 23/07/2023
+
+- Bringing General AI to search experience : https://cloud.google.com/blog/products/ai-machine-learning/enterprise-search-on-gen-app-builder - 21/07/2023
+
+- Cognaize raises $18M to build a better LLM for the finance sector, one that keeps humans in the loop : https://techcrunch.com/2023/07/18/cognaize-raises-18m-to-build-a-better-llm-for-the-finance-sector-one-that-keeps-humans-in-the-loop/
+
+- Meta and Microsoft Introduce the Next Generation of Llama : https://about.fb.com/news/2023/07/llama-2 - 18/07/2023
+
+- Bard's latest update: more features, languages and countries : https://blog.google/products/bard/google-bard-new-features-update-july-2023 - 13/07/2023
+
+- Anthropic's 'friendly' AI chatbot, Claude, is now available for more people to try : https://www.theverge.com/2023/7/11/23790254/anthropic-claude-chatbot-ai-available-beta - Only available for USA and UK - 11/07/2023
+
+- AI tools are designing entirely new proteins that could transform medicine : https://www.nature.com/articles/d41586-023-02227-y - 11/07/2023
+
+- GPT-4 Architecture, datasets and costs leaked : https://the-decoder.com/gpt-4-architecture-datasets-costs-and-more-leaked - Mixture of Experts (MoE) - 11/07/2023
+
+- Meet LongLLaMA: A Large Language Model Capable of Handling Long Contexts of 256k Tokens : https://www.marktechpost.com/2023/07/10/meet-longllama-a-large-language-model-capable-of-handling-long-contexts-of-256k-tokens - https://github.com/cstankonrad/long_llama - 10/07/2023
+
+- Claude vs ChatGPT for Data Science: A Comparative Analysis : https://www.datacamp.com/blog/claude-vs-chatgpt-data-science-comparison  - 30/06/2023
+
+- Databricks Strikes $1.3 Billion Deal for Generative AI Startup MosaicML : https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06 - 30/06/2023
+
+- GPT-4's Secret Has Been Revealed : https://thealgorithmicbridge.substack.com/p/gpt-4s-secret-has-been-revealed -> https://twitter.com/swyx/status/1671272883379908608 (George Hotz) - GPT-4 - Mixture of smaller models - 24/06/2023
+
+- AI is killing the old web, and the new web struggles to be born : https://www.theverge.com/2023/6/26/23773914/ai-large-language-models-data-scraping-generation-remaking-web - 27/06/2023
+
+- AI Package Hallucinations : https://vulcan.io/blog/ai-hallucinations-package-risk - 06/06/2023
+
+- Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models : https://huggingface.co/papers/2305.14705 -> https://arxiv.org/abs/2305.14705 - 24/05/2023
+
+- Meta open-sources multisensory AI model that combines six types of data : https://www.theverge.com/2023/5/9/23716558/meta-imagebind-open-source-multisensory-modal-ai-model-research - 10/05/2023
+
+- Google "We Have No Moat, And Neither Does OpenAI" : https://www.semianalysis.com/p/google-we-have-no-moat-and-neither - 04/05/2023
+
 - Model that uses machine learning methods and patient data at hospital arrival predicts strokes more accurately than current system : https://www.newswise.com/articles/machine-learning-model-predicts-strokes-more-accurately-than-current-system - 19/04/2023
 
 - Adobe launches AI-powered text-based video editing : https://venturebeat.com/games/adobe-launches-ai-powered-text-based-video-editing - 13/04/2023
@@ -28,23 +79,6 @@ Assemble a valuable collection of latest information and learning resources on N
 
 - Welcome to State of AI Report 2022: https://www.stateof.ai/2022-report-launch.html - 11/10/2022
 
-## Articles and research papers
-
-- GPTQ: ACCURATE POST-TRAINING QUANTIZATION
-FOR GENERATIVE PRE-TRAINED TRANSFORMERS : https://arxiv.org/pdf/2210.17323.pdf - 22/03/2023
-
-- Understanding Large Language Models : A Transformative Reading List :  https://sebastianraschka.com/blog/2023/llm-reading-list.html - **Sebastian Raschka** - Feb 7, 2023
-
-- Openai Research : https://openai.com/research
-
-- (GPT1) Improving Language Understanding
-by Generative Pre-Training : https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf - see also https://openai.com/research/language-unsupervised and https://huggingface.co/docs/transformers/model_doc/openai-gpt - **Radford et. al.** - 2018
-
-- (GPT-2) Language Models are Unsupervised Multitask Learners (2019): https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf - see also https://openai.com/research/better-language-models and https://github.com/openai/gpt-2 (source code) - **Radford et. al.** - 2019
-
-- (GPT-3) Language models are few-shot learners : https://openai.com/research/language-models-are-few-shot-learners and https://arxiv.org/abs/2005.14165 - **Brown et. al.** - May 28, 2020
-
-- Attention Is All You Need: https://arxiv.org/abs/1706.03762 and https://arxiv.org/pdf/1706.03762.pdf - 12 Jun 2017
 
 ## Articles and research papers
 
@@ -96,6 +130,7 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 
 ### Github and softwares
 
+
 - bitsandbytes : https://github.com/TimDettmers/bitsandbytes - a lightweight wrapper around CUDA custom functions, in particular 8-bit optimizers, matrix multiplication (LLM.int8()), and quantization functions
 
 - BIG-Bench Hard : https://github.com/suzgunmirac/BIG-Bench-Hard
@@ -145,6 +180,7 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 
 ### Learning/Education
 
+
 - Practical Deep Learning : https://course.fast.ai/Lessons/lesson1.html
 
 - Introduction to Large Lange Models : https://docs.cohere.com/docs/introduction-to-large-language-models
@@ -170,7 +206,9 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 - The little book of deep learning : https://fleuret.org/public/lbdl.pdf
 
 
+
 ### Discord and related github
+
 - Dalai: https://discord.gg/WWfgrzzkCT and https://github.com/cocktailpeanut/dalai - Run LLaMA and Alpaca on your computer
 
 - FastChat (LMSys) : https://discord.gg/HSWAKCrnFx and https://github.com/lm-sys/FastChat and https://chat.lmsys.org - FastChat is an open platform for training, serving, and evaluating large language model based chatbots
