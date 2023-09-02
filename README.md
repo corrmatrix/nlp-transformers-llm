@@ -4,14 +4,25 @@ Assemble a valuable collection of latest information and learning resources on N
 
 ## Last News
 
-
 - Meta's Code Llama : https://ai.meta.com/blog/code-llama-large-language-model-coding/ - 24/08/2023
+
+- Nvidia just blew its results out of the water thanks to a technology spending wave that analysts haven't seen 'since the internet in 1995' : https://www.businessinsider.com/nvidia-technology-spending-wave-build-out-google-meta-oracle-gpu-2023-8 - 24/08/2023
+
+- ElevenLabs Comes Out of Beta and Releases Eleven Multilingual v2 - a Foundational AI Speech Model for Nearly 30 Languages : https://elevenlabs.io/blog/multilingualv2/ - 22/08/2023
 
 - GPT-3.5 Turbo fine-tuning and API updates : https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates - 22/08/2023
 
 - Bringing the world closer together with a foundational multimodal model for speech translation : https://ai.meta.com/blog/seamless-m4t - 22/08/2023
 
 - AI2 Dolma: 3 Trillion Token Open Corpus for Language Model Pretraining : https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64 - 19/08/2023
+
+- AI2 Dolma: 3 Trillion Token Open Corpus for Language Model Pretraining : https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64 - 18/08/2023
+
+- China GPT? Tencent to Unleash Homegrown AI as Big Tech Races for Supremacy : https://decrypt.co/152815/china-tencent-ai-big-tech-chatgpt - 18/08/2023
+
+- Introducing Arthur Bench: The Most Robust Way to Evaluate LLMs : https://www.arthur.ai/blog/introducing-arthur-bench - 17/08/2023
+
+- State of AI Q2'23 Report : https://www.cbinsights.com/research/report/ai-trends-q2-2023 - 16/08/2023
 
 - Can You Run LLaMA and Llama-2 Ai Model Locally? : https://www.hardware-corner.net/run-llama-ai-locally/ (see also https://www.hardware-corner.net/guides/computer-to-run-llama-ai-model/) - 02/08/2023
 
@@ -51,6 +62,8 @@ Assemble a valuable collection of latest information and learning resources on N
 
 - Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models : https://huggingface.co/papers/2305.14705 -> https://arxiv.org/abs/2305.14705 - 24/05/2023
 
+- Announcing AI2 OLMo, an Open Language Model Made by Scientists, for Scientists : https://blog.allenai.org/announcing-ai2-olmo-an-open-language-model-made-by-scientists-for-scientists-ab761e4e9b76 - 24/05/2023
+
 - Meta open-sources multisensory AI model that combines six types of data : https://www.theverge.com/2023/5/9/23716558/meta-imagebind-open-source-multisensory-modal-ai-model-research - 10/05/2023
 
 - Google "We Have No Moat, And Neither Does OpenAI" : https://www.semianalysis.com/p/google-we-have-no-moat-and-neither - 04/05/2023
@@ -79,8 +92,20 @@ Assemble a valuable collection of latest information and learning resources on N
 
 - Welcome to State of AI Report 2022: https://www.stateof.ai/2022-report-launch.html - 11/10/2022
 
-
 ## Articles and research papers
+
+
+- Reinforced Self-Training (ReST) for Language Modeling : https://arxiv.org/pdf/2308.08998.pdf - 21/08/2023
+
+- Graph of Thoughts: Solving Elaborate Problems with Large Language Models : https://arxiv.org/abs/2308.09687v2 - 21/08/2023
+
+- RAVEN: In-Context Learning with Retrieval Augmented Encoder-Decoder Language Models - https://arxiv.org/abs/2308.07922v1 - 15/08/2023
+
+- Self-Alignment with Instruction Backtranslation : https://arxiv.org/abs/2308.06259v2 - 11/08/2023
+
+- BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents : https://arxiv.org/abs/2308.05960v1 - 11/08/2023
+
+- CoTracker: It is Better to Track Together : https://co-tracker.github.io/ - https://arxiv.org/abs/2307.07635 - 07/07/2023
 
 - Introduction to Weight Quantization : https://towardsdatascience.com/introduction-to-weight-quantization-2494701b9c0c
 
@@ -92,6 +117,9 @@ FOR GENERATIVE PRE-TRAINED TRANSFORMERS : https://arxiv.org/pdf/2210.17323.pdf -
 - LLaMA: Open and Efficient Foundation Language Models : https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models - 24/02/2023
 
 - Understanding Large Language Models : A Transformative Reading List :  https://sebastianraschka.com/blog/2023/llm-reading-list.html - 07/02/2023
+
+- Unnatural Instructions:
+Tuning Language Models with (Almost) No Human Labor : https://arxiv.org/pdf/2212.09689.pdf - 09/12/2022
 
 - Openai Research : https://openai.com/research
 
@@ -125,6 +153,7 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 - The Annotated Transformer : http://nlp.seas.harvard.edu/2018/04/03/attention.html - 03/04/2018
 
 - Attention Is All You Need : https://arxiv.org/abs/1706.03762 and https://arxiv.org/pdf/1706.03762.pdf - 12/06/2017
+
 
 ## Resources
 
