@@ -4,7 +4,43 @@ Assemble a valuable collection of latest information and learning resources on N
 
 ## Last News
 
+- DALL·E 3 understands significantly more nuance and detail than our previous systems, allowing you to easily translate your ideas into exceptionally accurate images : https://openai.com/dall-e-3 - 21/09/2023
+
+- Why Silicon Valley’s biggest AI developers are hiring poets : https://restofworld.org/2023/ai-developers-fiction-poetry-scale-ai-appen/ - 20/09/2023
+
+- Open Interpreter : https://openinterpreter.com/ - https://github.com/KillianLucas/open-interpreter/ - 18/09/2023
+
+- Salesforce launches AI assistant across its apps including Slack and Tableau : https://www.reuters.com/technology/salesforce-launches-ai-assistant-across-its-apps-including-slack-tableau-2023-09-12 - 12/09/2023
+
+
+- Intuit launches generative AI-powered digital assistant for small businesses and consumers : https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/ - 09/09/2023
+
+- Imbue raises $200M to build AI models that can ‘robustly reason’ : https://techcrunch.com/2023/09/07/imbue-raises-200m-to-build-ai-models-that-can-robustly-reason - 08/09/2023
+
+- Glass Health is building an AI for suggesting medical diagnoses : https://techcrunch.com/2023/09/08/glass-health-is-building-an-ai-for-suggesting-medical-diagnoses - 08/09/2023
+
+- China's Ant Group unveils finance AI model as race heats up : https://www.reuters.com/technology/chinas-ant-group-unveils-finance-ai-model-race-heats-up-2023-09-08 - - 08/09/2023
+
+- How We Chose the TIME100 Most Influential People in AI : https://time.com/6311323/how-we-chose-time100-ai - 07/09/2023
+
+- Online AI-based test for Parkinson's disease severity shows promising results : https://www.sciencedaily.com/releases/2023/09/230907130356.htm
+
+- New Open-Source ‘Falcon’ AI Language Model Overtakes Meta and Google : https://decrypt.co/155209/falcon-large-language-model-llm-ai-training-data-set - 07/09/2023
+
+- AI Took the Stage at the World's Largest Arts Festival. Here's What Happened : https://www.cnet.com/tech/ai-took-the-stage-at-the-worlds-largest-arts-festival-heres-what-happened - 07/09/2023
+
+- Apple is reportedly spending ‘millions of dollars a day’ training AI : https://www.theverge.com/2023/9/6/23861763/apple-ai-language-models-ajax-gpt-training-spending - 07/09/2023
+
+- ThetaRay nabs $57M for AI tools to fight money laundering : https://techcrunch.com/2023/09/05/thetaray-nabs-57m-for-ai-tools-to-id-and-fight-money-laundering - 05/09/2023
+
+- Bybit debuts AI-powered ‘TradeGPT’ for market analysis and data-driven Q&A : https://cointelegraph.com/news/bybit-launches-ai-trade-gpt-for-market-analysis 04/09/2023
+
+
+- Sapeon in Korea has raised KRW60bn ($46m, €42m) for its AI chip and software development : https://www.eenewseurope.com/en/sapeon-raises-46m-for-ai-chips - 03/09/2023
+
 - Meta's Code Llama : https://ai.meta.com/blog/code-llama-large-language-model-coding/ - 24/08/2023
+
+- Watch out, Midjourney! Ideogram launches AI image generator with impressive typography : https://venturebeat.com/ai/watch-out-midjourney-ideogram-launches-ai-image-generator-with-impressive-typography - 24/08/2023
 
 - Nvidia just blew its results out of the water thanks to a technology spending wave that analysts haven't seen 'since the internet in 1995' : https://www.businessinsider.com/nvidia-technology-spending-wave-build-out-google-meta-oracle-gpu-2023-8 - 24/08/2023
 
@@ -94,6 +130,17 @@ Assemble a valuable collection of latest information and learning resources on N
 
 ## Articles and research papers
 
+- SyncDreamer: Generating Multiview-consistent Images from a Single-view Image : https://arxiv.org/abs/2309.03453v1 - 07/09/2023
+
+- RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback : https://arxiv.org/abs/2309.00267v1 - 01/09/2023
+
+- Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities : https://arxiv.org/abs/2308.12966v1 - 24/08/2023
+
+- Perception, performance, and detectability of conversational artificial intelligence across 32 university courses : https://www.nature.com/articles/s41598-023-38964-3 - 24/08/2023
+
+- Prompt2Model : https://arxiv.org/pdf/2308.12261v1.pdf - 23/08/2023
+
+- Efficient Benchmarking (of Language Models) : https://arxiv.org/abs/2308.11696v1 - 22/08/2023
 
 - Reinforced Self-Training (ReST) for Language Modeling : https://arxiv.org/pdf/2308.08998.pdf - 21/08/2023
 
@@ -106,6 +153,8 @@ Assemble a valuable collection of latest information and learning resources on N
 - BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents : https://arxiv.org/abs/2308.05960v1 - 11/08/2023
 
 - CoTracker: It is Better to Track Together : https://co-tracker.github.io/ - https://arxiv.org/abs/2307.07635 - 07/07/2023
+
+- LIMA: Less Is More for Alignment : https://arxiv.org/abs/2305.11206
 
 - Introduction to Weight Quantization : https://towardsdatascience.com/introduction-to-weight-quantization-2494701b9c0c
 
@@ -159,7 +208,6 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 
 ### Github and softwares
 
-
 - bitsandbytes : https://github.com/TimDettmers/bitsandbytes - a lightweight wrapper around CUDA custom functions, in particular 8-bit optimizers, matrix multiplication (LLM.int8()), and quantization functions
 
 - BIG-Bench Hard : https://github.com/suzgunmirac/BIG-Bench-Hard
@@ -204,6 +252,7 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 
 - Stable diffusion : https://stability.ai/stablediffusion
 
+- Ideogram : https://ideogram.ai/
 
 
 
@@ -215,6 +264,8 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 - Introduction to Large Lange Models : https://docs.cohere.com/docs/introduction-to-large-language-models
 
 - LLM University! : https://docs.cohere.com/docs/llmu
+
+- Hugging Face NLP Course : https://huggingface.co/learn/nlp-course/chapter1/1
 
 - LLM Bootcamp - Spring 2023 : https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/
 
@@ -233,6 +284,12 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 - Interfaces for Explaining Transformer Language Models: https://jalammar.github.io/explaining-transformers - 2020
 
 - The little book of deep learning : https://fleuret.org/public/lbdl.pdf
+
+- Machine Learning Developer Notes : https://9600.dev/posts/machine-learning-developer-notes/
+
+- Made With ML : https://madewithml.com/
+
+- Deep Learning Short Courses : https://www.deeplearning.ai/short-courses/
 
 
 
