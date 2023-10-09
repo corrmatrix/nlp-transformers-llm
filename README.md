@@ -4,18 +4,39 @@ Assemble a valuable collection of latest information and learning resources on N
 
 ## Last News
 
+- ARTIFICIAL INTELLIGENCEMistral AI: Setting New Benchmarks Beyond Llama2 in the Open-Source Space : https://www.unite.ai/mistral-7b-setting-new-benchmarks-beyond-llama2-in-the-open-source-space/ - 04/10/2023
+
+- DALLE 3 : https://openai.com/dall-e-3 - 04/10/2023
+
+- Anthropic in Talks to Raise $2 Billion From Google and Others Just Days After Amazon Investment : https://www.theinformation.com/articles/openai-rival-anthropic-in-talks-to-raise-2-billion-from-google-others-as-ai-arms-race-accelerates - 03/10/2023
+
+- Introducing Stable LM 3B: Bringing Sustainable, High-Performance Language Models to Smart Devices : https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices - 02/10/2023
+
+- Meta quietly unveils Llama 2 Long AI that beats GPT-3.5 Turbo and Claude 2 on some tasks : https://venturebeat.com/ai/meta-quietly-releases-llama-2-long-ai-that-outperforms-gpt-3-5-and-claude-2-on-some-tasks - 29/09/2023
+
+- Meta debuts AI Studio to let developers build custom chatbots : https://techcrunch.com/2023/09/27/meta-debuts-ai-studio-to-let-developers-build-custom-chatbots/ - 28/09/2023
+
+- Mistral 7B : https://mistral.ai/news/announcing-mistral-7b/ - 27/09/2023
+
+- ChatGPT can now see, hear, and speak : https://openai.com/blog/chatgpt-can-now-see-hear-and-speak - 25/09/2023
+
 - DALL·E 3 understands significantly more nuance and detail than our previous systems, allowing you to easily translate your ideas into exceptionally accurate images : https://openai.com/dall-e-3 - 21/09/2023
 
-- Why Silicon Valley’s biggest AI developers are hiring poets : https://restofworld.org/2023/ai-developers-fiction-poetry-scale-ai-appen/ - 20/09/2023
+- Why Silicon Valley's biggest AI developers are hiring poets : https://restofworld.org/2023/ai-developers-fiction-poetry-scale-ai-appen/ - 20/09/2023
+
+- OpenAI Hustles to Beat Google to Launch 'Multimodal' LLM : https://www.theinformation.com/articles/openai-hustles-to-beat-google-to-launch-multimodal-llm - 18/09/2023
 
 - Open Interpreter : https://openinterpreter.com/ - https://github.com/KillianLucas/open-interpreter/ - 18/09/2023
 
+- From sanctions to silicon: China's semiconductor breakthrough : https://www.power-technology.com/comment/from-sanctions-to-silicon-chinas-semiconductor-breakthrough/ - 18/09/2023
+
 - Salesforce launches AI assistant across its apps including Slack and Tableau : https://www.reuters.com/technology/salesforce-launches-ai-assistant-across-its-apps-including-slack-tableau-2023-09-12 - 12/09/2023
 
+- Google's Gemini AI surpasses Chat GPT-4 fivefold: Report : https://www.dailysabah.com/life/googles-gemini-ai-surpasses-chat-gpt-4-fivefold-report/news - 10/09/2023
 
 - Intuit launches generative AI-powered digital assistant for small businesses and consumers : https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/ - 09/09/2023
 
-- Imbue raises $200M to build AI models that can ‘robustly reason’ : https://techcrunch.com/2023/09/07/imbue-raises-200m-to-build-ai-models-that-can-robustly-reason - 08/09/2023
+- Imbue raises $200M to build AI models that can 'robustly reason' : https://techcrunch.com/2023/09/07/imbue-raises-200m-to-build-ai-models-that-can-robustly-reason - 08/09/2023
 
 - Glass Health is building an AI for suggesting medical diagnoses : https://techcrunch.com/2023/09/08/glass-health-is-building-an-ai-for-suggesting-medical-diagnoses - 08/09/2023
 
@@ -49,6 +70,8 @@ Assemble a valuable collection of latest information and learning resources on N
 - GPT-3.5 Turbo fine-tuning and API updates : https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates - 22/08/2023
 
 - Bringing the world closer together with a foundational multimodal model for speech translation : https://ai.meta.com/blog/seamless-m4t - 22/08/2023
+
+- abacusai/Giraffe-v2-70b-32k : https://huggingface.co/abacusai/Giraffe-v2-70b-32k and Giraffe: Adventures in Expanding Context Lengths in LLMs : https://arxiv.org/abs/2308.10882 - 21/08/2023
 
 - AI2 Dolma: 3 Trillion Token Open Corpus for Language Model Pretraining : https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64 - 19/08/2023
 
@@ -129,6 +152,8 @@ Assemble a valuable collection of latest information and learning resources on N
 - Welcome to State of AI Report 2022: https://www.stateof.ai/2022-report-launch.html - 11/10/2022
 
 ## Articles and research papers
+
+- Language Modeling Is Compression : https://arxiv.org/pdf/2309.10668.pdf - 19/09/2023
 
 - SyncDreamer: Generating Multiview-consistent Images from a Single-view Image : https://arxiv.org/abs/2309.03453v1 - 07/09/2023
 
@@ -258,7 +283,6 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 
 ### Learning/Education
 
-
 - Practical Deep Learning : https://course.fast.ai/Lessons/lesson1.html
 
 - Introduction to Large Lange Models : https://docs.cohere.com/docs/introduction-to-large-language-models
@@ -272,6 +296,8 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 - Machine learning mastery : https://machinelearningmastery.com/start-here/
 
 - The transformer model, explained clearly : https://www.deriveit.org/notes/119
+
+- Scientific Python Lectures : https://lectures.scientific-python.org/
 
 - Geometric Deep Learning : https://geometricdeeplearning.com/blogs/
 
@@ -290,6 +316,8 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 - Made With ML : https://madewithml.com/
 
 - Deep Learning Short Courses : https://www.deeplearning.ai/short-courses/
+
+- CyientifiQ Innovation League : https://cyient.hackerearth.com/ - 16/09/2023 - 23/10/2023
 
 
 
