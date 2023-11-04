@@ -4,6 +4,16 @@ Assemble a valuable collection of latest information and learning resources on N
 
 ## Last News
 
+- Generative AI is Boring : https://www.jacob-browning.com/post/generative-ai-is-boring - 26/10/2023
+
+- TikTok maker’s new AI SALMONN understands all audio, not just music and voices : https://venturebeat.com/ai/tiktok-makers-new-ai-salmonn-understands-all-audio-not-just-music-and-voices/ - 24/10/2023
+
+- Fuyu-8B: A Multimodal Architecture for AI Agents : https://www.adept.ai/blog/fuyu-8b - https://huggingface.co/adept/fuyu-8b - 17/10/2023
+
+- Gemini is coming to Makersuite & so are Stubbs (PaLM 2 is going to be replaced by Gemini) : https://medium.com/@bedros-p/gemini-is-coming-to-makersuite-so-are-stubbs-32248f3924aa - 16/10/2023
+
+- Waymo's robotaxis are now available to tens of thousands of people across all of San Francisco : https://www.theverge.com/2023/10/10/23911190/waymo-robotaxi-san-francisco-customers-waitlist - 11/10/2023
+
 - ARTIFICIAL INTELLIGENCEMistral AI: Setting New Benchmarks Beyond Llama2 in the Open-Source Space : https://www.unite.ai/mistral-7b-setting-new-benchmarks-beyond-llama2-in-the-open-source-space/ - 04/10/2023
 
 - DALLE 3 : https://openai.com/dall-e-3 - 04/10/2023
@@ -151,7 +161,18 @@ Assemble a valuable collection of latest information and learning resources on N
 
 - Welcome to State of AI Report 2022: https://www.stateof.ai/2022-report-launch.html - 11/10/2022
 
+
 ## Articles and research papers
+
+- LLark: A Multimodal Foundation Model for Music : https://arxiv.org/abs/2310.07160v1 - 11/10/2023
+
+- HyperAttention: Long-context Attention in Near-Linear Time : https://arxiv.org/abs/2310.05869v2 - 09/10/2023
+
+- TimeGPT-1 : https://arxiv.org/abs/2310.03589v1  - 05/10/2023
+
+- A Long Way to Go: Investigating Length Correlations in RLHF : https://arxiv.org/abs/2310.03716v1 - 05/10/2023
+
+- Understanding the Effects of RLHF on LLM Generalisation and Diversity : https://arxiv.org/abs/2310.06452v1 - 05/10/2023
 
 - Language Modeling Is Compression : https://arxiv.org/pdf/2309.10668.pdf - 19/09/2023
 
