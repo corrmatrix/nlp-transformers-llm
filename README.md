@@ -4,13 +4,25 @@ Assemble a valuable collection of latest information and learning resources on N
 
 ## Last News
 
+- Prompt Engineering plus AlphaZero: Microsoft's XOT improves LLM's ability to generalize : https://the-decoder.com/prompt-engineering-plus-alphazero-microsofts-xot-improves-llms-ability-to-generalize/ - https://multiplatform.ai/microsoft-introduces-everything-of-thought-xot-to-enhance-ai-reasoning - 12/11/2023
+
+- New models and developer products announced at DevDay : https://openai.com/blog/new-models-and-developer-products-announced-at-devday - 06/11/2023
+
 - Generative AI is Boring : https://www.jacob-browning.com/post/generative-ai-is-boring - 26/10/2023
 
-- TikTok maker’s new AI SALMONN understands all audio, not just music and voices : https://venturebeat.com/ai/tiktok-makers-new-ai-salmonn-understands-all-audio-not-just-music-and-voices/ - 24/10/2023
+- AMD Scores Two Big Wins: Oracle Opts for MI300X, IBM Asks for FPGAs : https://www.tomshardware.com/news/amd-scores-two-big-wins-oracle-opts-for-mi300x-ibm-asks-for-fpgas- 24/10/2023
+
+- TikTok maker's new AI SALMONN understands all audio, not just music and voices : https://venturebeat.com/ai/tiktok-makers-new-ai-salmonn-understands-all-audio-not-just-music-and-voices/ - 24/10/2023
+
+- Alibaba, Tencent among investors in China’s rival to OpenAI with $341 million funding : https://www.cnbc.com/2023/10/20/alibaba-tencent-among-investors-in-zhipu-chinas-openai-rival.html - 20/10/2023
+
+- New Nvidia AI agent, powered by GPT-4, can train robots : https://venturebeat.com/ai/new-nvidia-ai-agent-powered-by-gpt-4-can-train-robots - 20/10/2023
 
 - Fuyu-8B: A Multimodal Architecture for AI Agents : https://www.adept.ai/blog/fuyu-8b - https://huggingface.co/adept/fuyu-8b - 17/10/2023
 
 - Gemini is coming to Makersuite & so are Stubbs (PaLM 2 is going to be replaced by Gemini) : https://medium.com/@bedros-p/gemini-is-coming-to-makersuite-so-are-stubbs-32248f3924aa - 16/10/2023
+
+- Introducing PlayHT 2.0 Turbo ⚡️ - The Fastest Generative AI Text-to-Speech API : https://news.play.ht/post/introducing-playht-2-0-turbo-the-fastest-generative-ai-text-to-speech-api - 12/10/2023
 
 - Waymo's robotaxis are now available to tens of thousands of people across all of San Francisco : https://www.theverge.com/2023/10/10/23911190/waymo-robotaxi-san-francisco-customers-waitlist - 11/10/2023
 
@@ -164,6 +176,26 @@ Assemble a valuable collection of latest information and learning resources on N
 
 ## Articles and research papers
 
+- OpenAI DevDay: Beyond the Headlines with Logan Kilpatrick, OpenAI's Dev Relations Lead : https://www.youtube.com/watch?v=WFM2pvj00oc - 08/11/2023
+
+- Introducing GPTs : https://openai.com/blog/introducing-gpts - 06/11/2023
+
+- Adversarial Attacks and Defenses in Large Language
+Models: Old and New Threats : https://arxiv.org/pdf/2310.19737v1.pdf - 23/10/2023
+
+- LoRA Fine-tuning Efficiently Undoes Safety Training
+in Llama 2-Chat 70B : https://arxiv.org/pdf/2310.20624.pdf - 23/10/2023
+
+- Managing AI Risks in an Era of Rapid Progress : https://arxiv.org/pdf/2310.17688.pdf - 23/10/2023
+
+- Contrastive Prefence Learning: Learning from Human Feedback without RL : https://arxiv.org/abs/2310.13639v1 - 20/10/2023
+
+- AgentTuning: Enabling Generalized Agent Abilities for LLMs : https://huggingface.co/papers/2310.12823 - 20/10/2023
+
+- Llemma: An Open Language Model For Mathematics : https://arxiv.org/abs/2310.10631v1 - 16/10/2023
+
+- MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning : https://arxiv.org/abs/2310.09478 - 14/10/2023
+
 - LLark: A Multimodal Foundation Model for Music : https://arxiv.org/abs/2310.07160v1 - 11/10/2023
 
 - HyperAttention: Long-context Attention in Near-Linear Time : https://arxiv.org/abs/2310.05869v2 - 09/10/2023
@@ -254,6 +286,7 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 
 ### Github and softwares
 
+
 - bitsandbytes : https://github.com/TimDettmers/bitsandbytes - a lightweight wrapper around CUDA custom functions, in particular 8-bit optimizers, matrix multiplication (LLM.int8()), and quantization functions
 
 - BIG-Bench Hard : https://github.com/suzgunmirac/BIG-Bench-Hard
@@ -276,6 +309,12 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 
 - Med-Flamingo : https://github.com/snap-stanford/med-flamingo
 
+- Mistral AI : https://github.com/mistralai/mistral-src
+
+- NanoPhi : https://github.com/VatsaDev/NanoPhi
+
+- OpenGPTs : https://github.com/langchain-ai/opengpts
+
 - Parameter-Efficient Fine-Tuning (PEFT) methods : https://github.com/huggingface/peft - enable efficient adaptation of pre-trained language models (PLMs) to various downstream applications without fine-tuning all the model's parameters
 
 - QLoRA: Efficient Finetuning of Quantized LLMs : https://github.com/artidoro/qlora
@@ -285,6 +324,8 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 - Stable Diffusion web UI : https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 - Web LLM : https://github.com/mlc-ai/web-llm
+
+- Weights & Biases : https://wandb.ai/site - https://github.com/wandb/wandb
 
 - WizardVicunaLM : https://github.com/melodysdreamj/WizardVicunaLM - Wizard's dataset + ChatGPT's conversation extension + Vicuna's tuning method
 
@@ -301,7 +342,6 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 - Ideogram : https://ideogram.ai/
 
 
-
 ### Learning/Education
 
 - Practical Deep Learning : https://course.fast.ai/Lessons/lesson1.html
@@ -315,6 +355,8 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 - LLM Bootcamp - Spring 2023 : https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/
 
 - Machine learning mastery : https://machinelearningmastery.com/start-here/
+
+- Machine Learning for Beginners - A Curriculum : https://github.com/microsoft/ML-For-Beginners
 
 - The transformer model, explained clearly : https://www.deriveit.org/notes/119
 
@@ -339,8 +381,6 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 - Deep Learning Short Courses : https://www.deeplearning.ai/short-courses/
 
 - CyientifiQ Innovation League : https://cyient.hackerearth.com/ - 16/09/2023 - 23/10/2023
-
-
 
 ### Discord and related github
 
