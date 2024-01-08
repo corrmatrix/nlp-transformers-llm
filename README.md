@@ -4,9 +4,55 @@ Assemble a valuable collection of latest information and learning resources on N
 
 ## Last News
 
+
+- Baidu's ChatGPT-like Ernie Bot has more than 100 mln users -CTO : https://www.reuters.com/technology/baidus-chatgpt-like-ernie-bot-has-more-than-100-mln-users-cto-2023-12-28 - 28/12/2023
+
+- Instagram introduces GenAI powered background editing tool : https://techcrunch.com/2023/12/14/instagram-introduces-gen-ai-powered-background-editing-tool/ - 14/12/2023
+
+- Introducing DeciLM-7B: The Fastest and Most Accurate 7 Billion-Parameter LLM to Date : https://deci.ai/blog/introducing-decilm-7b-the-fastest-and-most-accurate-7b-large-language-model-to-date - 12/12/2023
+
+
+- Google Deepmind unveils its most advanced AI image generator, Imagen 2 : https://the-decoder.com/google-deepmind-unveils-its-most-advanced-ai-image-generator-imagen-2 - 13/12/2023
+
+- Augmenting Local AI with Browser Data: Introducing MemoryCache : https://future.mozilla.org/blog/introducing-memorycache/ - 12/12/2023
+
+- Mixtral of experts: https://mistral.ai/news/mixtral-of-experts - 11/12/2023
+
+- Paving the way to efficient architectures: StripedHyena-7B, open source models offering a glimpse into a world beyond Transformers : https://www.together.ai/blog/stripedhyena-7b - 08/12/2023
+
+- Google Just Launched Gemini, Its Long-Awaited Answer to ChatGPT : https://www.wired.com/story/google-gemini-ai-model-chatgpt - https://blog.google/technology/ai/google-gemini-ai - 06/12/2023
+
+- Sydney-based generative AI art platform Leonardo.Ai raises $31M : https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/06/leonardo-ai/amp/ - 06/12/2023
+
+- China Open Sources DeepSeek LLM, Outperforms Llama 2 and Claude-2 : https://analyticsindiamag.com/china-open-sources-deepseek-llm-outperforms-llama-2-and-claude-2 - 01/12/2023
+
+- Starling-7B: Increasing LLM Helpfulness & Harmlessness with RLAIF : https://starling.cs.berkeley.edu/ - 30/11/2023
+
+- Perplexity AI Introduces New Online LLMs for Real-Time Information Access  : https://analyticsindiamag.com/perplexity-ai-introduces-new-online-llms-for-real-time-information-access - 29/11/2023
+
+-  Microsoft Paint's DALL-E 3 integration is rolling out on Windows 11 : https://www.windowslatest.com/2023/11/28/microsoft-paints-dall-e-3-integration-is-rolling-out-on-windows-11 - 28/11/2023
+
+- Unpacking the hype around OpenAI’s rumored new Q* model : https://www.technologyreview.com/2023/11/27/1083886/unpacking-the-hype-around-openais-rumored-new-q-model/ - 27/11/2023
+
+- New technique can accelerate language models by 300x : https://venturebeat.com/ai/new-technique-can-accelerate-language-models-by-300x/ - 24/11/2023
+
+- Who is leading in AI? An analysis of industry AI research : https://epochai.org/blog/who-is-leading-in-ai-an-analysis-of-industry-ai-research - 23/11/2023
+
+- OpenAI rival Anthropic makes its Claude chatbot even more useful : https://www.theverge.com/2023/11/21/23971070/anthropic-claude-2-1-openai-ai-chatbot-update-beta-tools - 22/11/2023
+
+- Inflection-2 : The Next Step Up : https://inflection.ai/inflection-2 - 22/11/2023
+
+- Introducing Claude 2.1 : https://www.anthropic.com/index/claude-2-1 - 21/11/2023
+
+- Microsoft unveils first AI chip, Maia 100, and Cobalt CPU : https://www.zdnet.com/article/microsoft-unveils-first-ai-chip-maia-100-and-cobalt-cpu - 15/11/2023
+
 - Prompt Engineering plus AlphaZero: Microsoft's XOT improves LLM's ability to generalize : https://the-decoder.com/prompt-engineering-plus-alphazero-microsofts-xot-improves-llms-ability-to-generalize/ - https://multiplatform.ai/microsoft-introduces-everything-of-thought-xot-to-enhance-ai-reasoning - 12/11/2023
 
 - New models and developer products announced at DevDay : https://openai.com/blog/new-models-and-developer-products-announced-at-devday - 06/11/2023
+
+- Valued at $1B, Kai-Fu Lee's LLM startup unveils open source model : https://techcrunch.com/2023/11/05/valued-at-1b-kai-fu-lees-llm-startup-unveils-open-source-model - 06/11/2023
+
+- AI startup Twelve Labs attracts US$10 mln from Nvidia, Intel, others : https://en.yna.co.kr/view/AEN20231027001000320 - 27/10/2023
 
 - Generative AI is Boring : https://www.jacob-browning.com/post/generative-ai-is-boring - 26/10/2023
 
@@ -174,7 +220,19 @@ Assemble a valuable collection of latest information and learning resources on N
 - Welcome to State of AI Report 2022: https://www.stateof.ai/2022-report-launch.html - 11/10/2022
 
 
+
 ## Articles and research papers
+
+
+- Some of the Samsung Galaxy S24's key AI features just leaked : https://www.techradar.com/phones/samsung-galaxy-phones/some-of-the-samsung-galaxy-s24s-key-ai-features-just-leaked - 01/01/2024
+
+- Improving Text Embeddings with Large Language Models : https://arxiv.org/abs/2401.00368v1 - 31/12/2023
+
+- Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine : https://arxiv.org/abs/2311.16452v1 - 28/11/2023
+
+- TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones : https://arxiv.org/abs/2312.16862 - 28/12/2023
+
+- White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is? : https://arxiv.org/abs/2311.13110v2 - 22/11/2023
 
 - OpenAI DevDay: Beyond the Headlines with Logan Kilpatrick, OpenAI's Dev Relations Lead : https://www.youtube.com/watch?v=WFM2pvj00oc - 08/11/2023
 
@@ -325,6 +383,8 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 
 - Web LLM : https://github.com/mlc-ai/web-llm
 
+- Self-Operating Computer Framework : https://github.com/OthersideAI/self-operating-computer/tree/main
+
 - Weights & Biases : https://wandb.ai/site - https://github.com/wandb/wandb
 
 - WizardVicunaLM : https://github.com/melodysdreamj/WizardVicunaLM - Wizard's dataset + ChatGPT's conversation extension + Vicuna's tuning method
@@ -340,6 +400,9 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 - Stable diffusion : https://stability.ai/stablediffusion
 
 - Ideogram : https://ideogram.ai/
+
+- Pika : https://pika.art/
+
 
 
 ### Learning/Education
