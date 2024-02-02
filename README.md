@@ -1,11 +1,36 @@
 
 ## Purpose
-Assemble a valuable collection of latest information and learning resources on NLP, Transformers and Large Language Model.
+A valuable collection of latest information and learning resources on NLP, Transformers and Large Language Model.
 
 ## Last News
 
+- YouTube is cracking down on AI-generated true crime deepfakes : https://www.theverge.com/2024/1/8/24030107/youtube-ai-deepfakes-true-crime-victims-minors - 24/01/2024
 
-- Baidu's ChatGPT-like Ernie Bot has more than 100 mln users -CTO : https://www.reuters.com/technology/baidus-chatgpt-like-ernie-bot-has-more-than-100-mln-users-cto-2023-12-28 - 28/12/2023
+- Google is using AI to organize and customize your Chrome browser : https://www.theverge.com/2024/1/23/24047843/google-chrome-browser-ai-organize-tabs-themes - 24/01/2024
+
+- Claude 2.1 Multi-Modal Assistance : https://claudeai.uk/claude-2-1-multi-modal-assistance/ - 21/01/2024
+
+- Stability AI unveils smaller, more efficient 1.6B language model as part of ongoing innovation : https://venturebeat.com/ai/stability-ai-unveils-smaller-more-efficient-1-6b-language-model-as-part-of-ongoing-innovation/ - 19/01/2024
+
+- The Rabbit R1 will receive live info from Perplexity’s AI ‘answer engine’ : https://www.theverge.com/2024/1/18/24043490/rabbit-r1-ai-perplexity-pro-live-search-info-answers - 19/01/2024
+
+- Meta begins training Llama 3, reshuffles AI responsibilities : https://www.axios.com/2024/01/18/zuckerberg-meta-llama-3-ai - 18/01/2024
+
+- Samsung’s latest Galaxy phones offer live translation over phone calls, texts : https://techcrunch.com/2024/01/17/samsungs-latest-galaxy-phones-offer-live-translation-over-phone-calls-texts -  - 17/01/2024
+
+- Microsoft Copilot is now using the previously-paywalled GPT-4 Turbo, saving you $20 a month : https://www.windowscentral.com/software-apps/microsoft-copilot-is-now-using-the-previously-paywalled-gpt-4-turbo-saving-you-dollar20-a-month - 16/01/2024
+
+- Getty and Nvidia bring generative AI to stock photos : https://www.theverge.com/2024/1/8/24027259/getty-images-nvidia-generative-ai-stock-photos - 09/01/2024
+
+- A list going viral reveals famous artists whose work was used to train AI generator : https://www.nbcnews.com/tech/tech-news/famous-artists-trained-ai-generator-viral-list-rcna131995 - 05/01/2024
+
+- AI-powered search engine Perplexity AI, now valued at $520M, raises $73.6M : https://techcrunch.com/2024/01/04/ai-powered-search-engine-perplexity-ai-now-valued-at-520m-raises-70m - 04/01/2024
+
+- Early Mickey Mouse is now in the public domain—and AI is already on the case : https://arstechnica.com/information-technology/2024/01/early-mickey-mouse-is-now-in-the-public-domain-and-ai-is-already-on-the-case/ - 03/01/2024
+
+- Midjourney Version 6: Look Ma, Text! : https://www.whytryai.com/p/midjourney-version-6 - 28/12/2023
+
+- Baidu's ChatGPT-like Ernie Bot has more than 100 mln users - CTO : https://www.reuters.com/technology/baidus-chatgpt-like-ernie-bot-has-more-than-100-mln-users-cto-2023-12-28 - 28/12/2023
 
 - Instagram introduces GenAI powered background editing tool : https://techcrunch.com/2023/12/14/instagram-introduces-gen-ai-powered-background-editing-tool/ - 14/12/2023
 
@@ -124,7 +149,6 @@ Assemble a valuable collection of latest information and learning resources on N
 
 - Bybit debuts AI-powered ‘TradeGPT’ for market analysis and data-driven Q&A : https://cointelegraph.com/news/bybit-launches-ai-trade-gpt-for-market-analysis 04/09/2023
 
-
 - Sapeon in Korea has raised KRW60bn ($46m, €42m) for its AI chip and software development : https://www.eenewseurope.com/en/sapeon-raises-46m-for-ai-chips - 03/09/2023
 
 - Meta's Code Llama : https://ai.meta.com/blog/code-llama-large-language-model-coding/ - 24/08/2023
@@ -157,7 +181,7 @@ Assemble a valuable collection of latest information and learning resources on N
 
 - Stack overflow search - OverflowAI : https://twitter.com/StackOverflow/status/1684530704850243584 - 27/07/2023
 
-- Meta's Open Source Llama Upsets the AI Horse Race: https://www.wired.com/story/metas-open-source-llama-upsets-the-ai-horse-race - 26/07/2023
+- Meta's Open Source Llama Upsets the AI Horse : https://www.wired.com/story/metas-open-source-llama-upsets-the-ai-horse-race - 26/07/2023
 
 - Patterns for Building LLM-based Systems & Products : https://eugeneyan.com/writing/llm-patterns/ - 23/07/2023
 
@@ -187,7 +211,7 @@ Assemble a valuable collection of latest information and learning resources on N
 
 - AI Package Hallucinations : https://vulcan.io/blog/ai-hallucinations-package-risk - 06/06/2023
 
-- Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models : https://huggingface.co/papers/2305.14705 -> https://arxiv.org/abs/2305.14705 - 24/05/2023
+- Mixture-of-Experts Meets Instruction Tuning: A Winning Combination for Large Language Models : https://huggingface.co/papers/2305.14705 -> https://arxiv.org/abs/2305.14705 - 24/05/2023
 
 - Announcing AI2 OLMo, an Open Language Model Made by Scientists, for Scientists : https://blog.allenai.org/announcing-ai2-olmo-an-open-language-model-made-by-scientists-for-scientists-ab761e4e9b76 - 24/05/2023
 
@@ -207,7 +231,7 @@ Assemble a valuable collection of latest information and learning resources on N
 
 - Introducing BloombergGPT, Bloomberg’s 50-billion parameter large language model, purpose-built from scratch for finance : https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance - 30/03/2023
 
-- GPT-4 has more than a trillion parameters: https://the-decoder.com/gpt-4-has-a-trillion-parameters - 25/03/2023
+- GPT-4 has more than a trillion parameters : https://the-decoder.com/gpt-4-has-a-trillion-parameters - 25/03/2023
 
 - Our latest health AI research updates : https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup - 14/03/2023
 
@@ -215,18 +239,27 @@ Assemble a valuable collection of latest information and learning resources on N
 
 - Alpaca: A Strong, Replicable Instruction-Following Model : https://crfm.stanford.edu/2023/03/13/alpaca.html - 13/03/2023
 
-- Meta's powerful AI language model has leaked online — what happens now?: https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse - 09/03/2023
+- Meta's powerful AI language model has leaked online — what happens now? : https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse - 09/03/2023
 
-- Welcome to State of AI Report 2022: https://www.stateof.ai/2022-report-launch.html - 11/10/2022
-
+- Welcome to State of AI Report 2022 : https://www.stateof.ai/2022-report-launch.html - 11/10/2022
 
 
 ## Articles and research papers
 
 
+- The Impact of Reasoning Step Length on Large Language Models : https://arxiv.org/abs/2401.04925v1 - 10/01/2024
+
+- PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models : https://arxiv.org/abs/2401.05252v1 - 10/01/2024
+
+- Mixtral of Experts : https://arxiv.org/abs/2401.04088 - 08/01/2024
+
+- LLAMA PRO: Progressive LLaMA with Block Expansion : LLAMA PRO: Progressive LLaMA with Block Expansion - 04/01/2024
+
 - Some of the Samsung Galaxy S24's key AI features just leaked : https://www.techradar.com/phones/samsung-galaxy-phones/some-of-the-samsung-galaxy-s24s-key-ai-features-just-leaked - 01/01/2024
 
 - Improving Text Embeddings with Large Language Models : https://arxiv.org/abs/2401.00368v1 - 31/12/2023
+
+- Customizing Realistic Human Photos via Stacked ID Embedding : https://arxiv.org/pdf/2312.04461v1.pdf - 07/12/2023
 
 - Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine : https://arxiv.org/abs/2311.16452v1 - 28/11/2023
 
@@ -255,6 +288,8 @@ in Llama 2-Chat 70B : https://arxiv.org/pdf/2310.20624.pdf - 23/10/2023
 - MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning : https://arxiv.org/abs/2310.09478 - 14/10/2023
 
 - LLark: A Multimodal Foundation Model for Music : https://arxiv.org/abs/2310.07160v1 - 11/10/2023
+
+- LongLLMLingua: ACCELERATING AND ENHANCING LLMS IN LONG CONTEXT SCENARIOS VIA PROMPT COMPRESSION : https://arxiv.org/pdf/2310.06839.pdf - 10/10/2023
 
 - HyperAttention: Long-context Attention in Near-Linear Time : https://arxiv.org/abs/2310.05869v2 - 09/10/2023
 
@@ -345,7 +380,8 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 ### Github and softwares
 
 
-- bitsandbytes : https://github.com/TimDettmers/bitsandbytes - a lightweight wrapper around CUDA custom functions, in particular 8-bit optimizers, matrix multiplication (LLM.int8()), and quantization functions
+- bitsandbytes : https://github.com/TimDettmers/bitsandbytes -
+https://huggingface.co/blog/4bit-transformers-bitsandbytes - a lightweight wrapper around CUDA custom functions, in particular 8-bit optimizers, matrix multiplication (LLM.int8()), and quantization functions
 
 - BIG-Bench Hard : https://github.com/suzgunmirac/BIG-Bench-Hard
 
@@ -389,23 +425,26 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 
 - WizardVicunaLM : https://github.com/melodysdreamj/WizardVicunaLM - Wizard's dataset + ChatGPT's conversation extension + Vicuna's tuning method
 
-- Huggingface : https://huggingface.co
+- Huggingface : https://huggingface.co : https://huggingface.co/models
+
+- Ideogram : https://ideogram.ai/
+
+- Lumiere : https://lumiere-video.github.io/
+
+- Midjourney : https://www.midjourney.com
 
 - Modular - mojo : https://www.modular.com/mojo
 
 - OpenAI : https://openai.com
 
-- Midjourney : https://www.midjourney.com
+- Pika : https://pika.art/
 
 - Stable diffusion : https://stability.ai/stablediffusion
-
-- Ideogram : https://ideogram.ai/
-
-- Pika : https://pika.art/
 
 
 
 ### Learning/Education
+
 
 - Practical Deep Learning : https://course.fast.ai/Lessons/lesson1.html
 
@@ -422,6 +461,10 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 - Machine Learning for Beginners - A Curriculum : https://github.com/microsoft/ML-For-Beginners
 
 - The transformer model, explained clearly : https://www.deriveit.org/notes/119
+
+- Ollama : https://ollama.ai/blog
+
+- Lightning AI : https://lightning.ai/lightning-ai/studios/optimized-llm-inference-api-for-mistral-7b-using-vllm - https://lightning.ai/lightning-ai/studios/run-mistral-moe-mixture-of-experts
 
 - Scientific Python Lectures : https://lectures.scientific-python.org/
 
@@ -444,6 +487,7 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 - Deep Learning Short Courses : https://www.deeplearning.ai/short-courses/
 
 - CyientifiQ Innovation League : https://cyient.hackerearth.com/ - 16/09/2023 - 23/10/2023
+
 
 ### Discord and related github
 
