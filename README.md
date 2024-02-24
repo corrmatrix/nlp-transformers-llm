@@ -4,6 +4,26 @@ A valuable collection of latest information and learning resources on NLP, Trans
 
 ## Last News
 
+- What two years of AI development can tell us about Sora : https://www.vox.com/future-perfect/24080195/sora-openai-sam-altman-ai-generated-videos-disinformation-midjourney-dalle - 23/02/2024
+
+- Gemma: Introducing new state-of-the-art open models : https://blog.google/technology/developers/gemma-open-models - 21/02/2024
+
+- Introducing LlamaCloud and LlamaParse : https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b - 21/02/2024
+
+- FOD#41: GPU's rival? What is Language Processing Unit (LPU) : https://www.turingpost.com/p/fod41 - 19/02/2024
+
+- Creating video from text - Sora : https://openai.com/sora - 15/02/2024
+
+- Cohere for AI launches open source LLM for 101 languages : https://venturebeat.com/ai/cohere-for-ai-launches-open-source-llm-for-101-languages/ - 13/02/2024
+
+- OpenAI reportedly developing two AI agents to automate entire work processes : https://the-decoder.com/openai-reportedly-developing-two-ai-agents-to-automate-entire-work-processes/?amp=1 - 08/02/2024
+
+- Apple releases 'MGIE, a revolutionary AI model for instruction-based image editing : https://venturebeat.com/ai/apple-releases-mgie-a-revolutionary-ai-model-for-instruction-based-image-editing - 06/02/2024
+
+- Introducing Qwen1.5 : https://qwenlm.github.io/blog/qwen1.5 - 04/02/2024
+
+- Arc Search's AI responses launched as an unfettered experience with no guardrails : https://mashable.com/article/arc-search-browser-app-ai-no-guardrails - 01/02/2024
+
 - YouTube is cracking down on AI-generated true crime deepfakes : https://www.theverge.com/2024/1/8/24030107/youtube-ai-deepfakes-true-crime-victims-minors - 24/01/2024
 
 - Google is using AI to organize and customize your Chrome browser : https://www.theverge.com/2024/1/23/24047843/google-chrome-browser-ai-organize-tabs-themes - 24/01/2024
@@ -379,7 +399,6 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 
 ### Github and softwares
 
-
 - bitsandbytes : https://github.com/TimDettmers/bitsandbytes -
 https://huggingface.co/blog/4bit-transformers-bitsandbytes - a lightweight wrapper around CUDA custom functions, in particular 8-bit optimizers, matrix multiplication (LLM.int8()), and quantization functions
 
@@ -425,6 +444,8 @@ https://huggingface.co/blog/4bit-transformers-bitsandbytes - a lightweight wrapp
 
 - WizardVicunaLM : https://github.com/melodysdreamj/WizardVicunaLM - Wizard's dataset + ChatGPT's conversation extension + Vicuna's tuning method
 
+- Groq (LPU) : https://groq.com/
+
 - Huggingface : https://huggingface.co : https://huggingface.co/models
 
 - Ideogram : https://ideogram.ai/
@@ -441,10 +462,11 @@ https://huggingface.co/blog/4bit-transformers-bitsandbytes - a lightweight wrapp
 
 - Stable diffusion : https://stability.ai/stablediffusion
 
+- Large World Model (LWM) : https://github.com/LargeWorldModel/LWM
+
 
 
 ### Learning/Education
-
 
 - Practical Deep Learning : https://course.fast.ai/Lessons/lesson1.html
 
@@ -453,6 +475,8 @@ https://huggingface.co/blog/4bit-transformers-bitsandbytes - a lightweight wrapp
 - LLM University! : https://docs.cohere.com/docs/llmu
 
 - Hugging Face NLP Course : https://huggingface.co/learn/nlp-course/chapter1/1
+
+- Andrej Karpathy - Let's build the GPT Tokenizer : https://www.youtube.com/watch?v=zduSFxRajkE - 21/02/2024
 
 - LLM Bootcamp - Spring 2023 : https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/
 
