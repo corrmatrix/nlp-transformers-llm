@@ -18,9 +18,13 @@ A valuable collection of latest information and learning resources on NLP, Trans
 
 - OpenAI reportedly developing two AI agents to automate entire work processes : https://the-decoder.com/openai-reportedly-developing-two-ai-agents-to-automate-entire-work-processes/?amp=1 - 08/02/2024
 
+- Meet 'Smaug-72B': The new king of open-source AI : https://venturebeat.com/ai/meet-smaug-72b-the-new-king-of-open-source-ai - 06/02/2024
+
 - Apple releases 'MGIE, a revolutionary AI model for instruction-based image editing : https://venturebeat.com/ai/apple-releases-mgie-a-revolutionary-ai-model-for-instruction-based-image-editing - 06/02/2024
 
 - Introducing Qwen1.5 : https://qwenlm.github.io/blog/qwen1.5 - 04/02/2024
+
+- Allen Institute for AI launches open and transparent OLMo large language model : https://siliconangle.com/2024/02/01/allen-institute-ai-fully-open-transparent-olmo-llm-rival-openai-google - 01/02/2024
 
 - Arc Search's AI responses launched as an unfettered experience with no guardrails : https://mashable.com/article/arc-search-browser-app-ai-no-guardrails - 01/02/2024
 
@@ -266,6 +270,7 @@ A valuable collection of latest information and learning resources on NLP, Trans
 
 ## Articles and research papers
 
+- Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks : https://arxiv.org/abs/2402.04248v1 - 06/02/2024
 
 - The Impact of Reasoning Step Length on Large Language Models : https://arxiv.org/abs/2401.04925v1 - 10/01/2024
 
@@ -404,6 +409,8 @@ https://huggingface.co/blog/4bit-transformers-bitsandbytes - a lightweight wrapp
 
 - BIG-Bench Hard : https://github.com/suzgunmirac/BIG-Bench-Hard
 
+- Bocoel : https://github.com/rentruewang/bocoel
+
 - Dalai : https://github.com/cocktailpeanut/dalai - Run LLaMA and Alpaca on your computer
 
 - GGML : https://github.com/ggerganov/ggml
@@ -425,6 +432,8 @@ https://huggingface.co/blog/4bit-transformers-bitsandbytes - a lightweight wrapp
 - Mistral AI : https://github.com/mistralai/mistral-src
 
 - NanoPhi : https://github.com/VatsaDev/NanoPhi
+
+- Ollama : https://github.com/ollama/ollama
 
 - OpenGPTs : https://github.com/langchain-ai/opengpts
 
@@ -468,49 +477,82 @@ https://huggingface.co/blog/4bit-transformers-bitsandbytes - a lightweight wrapp
 
 ### Learning/Education
 
-- Practical Deep Learning : https://course.fast.ai/Lessons/lesson1.html
+- Andrej Karpathy - Let's build the GPT Tokenizer : https://www.youtube.com/watch?v=zduSFxRajkE - 21/02/2024
 
-- Introduction to Large Lange Models : https://docs.cohere.com/docs/introduction-to-large-language-models
+- Applied Deep Learning : https://github.com/maziarraissi/Applied-Deep-Learning
 
-- LLM University! : https://docs.cohere.com/docs/llmu
+- Attention is all you need; Attentional Neural Network Models : https://www.youtube.com/watch?v=rBCqOTEfxvg - Oct 2017
+
+- Awesome transformers : https://github.com/cedrickchee/awesome-transformer-nlp
+
+- CyientifiQ Innovation League : https://cyient.hackerearth.com/ - 16/09/2023 - 23/10/2023
+
+- Data Engineering Wiki : https://dataengineering.wiki/Learning+Resources
+
+- Deep Learning Short Courses : https://www.deeplearning.ai/short-courses/
+
+- Geometric Deep Learning : https://geometricdeeplearning.com/blogs/
+
+- How GPT3 Works - Easily Explained with Animations : https://www.youtube.com/watch?v=MQnJZuBGmSQ - Aug 2020 - Basic overview
 
 - Hugging Face NLP Course : https://huggingface.co/learn/nlp-course/chapter1/1
 
-- Andrej Karpathy - Let's build the GPT Tokenizer : https://www.youtube.com/watch?v=zduSFxRajkE - 21/02/2024
+- Interfaces for Explaining Transformer Language Models: https://jalammar.github.io/explaining-transformers - 2020
+
+- Introduction to Large Lange Models : https://docs.cohere.com/docs/introduction-to-large-language-models
+
+- Lightning AI : https://lightning.ai/lightning-ai/studios/optimized-llm-inference-api-for-mistral-7b-using-vllm - https://lightning.ai/lightning-ai/studios/run-mistral-moe-mixture-of-experts
 
 - LLM Bootcamp - Spring 2023 : https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/
+
+- LLM University! : https://docs.cohere.com/docs/llmu
+
+- Machine Learning Developer Notes : https://9600.dev/posts/machine-learning-developer-notes/
 
 - Machine learning mastery : https://machinelearningmastery.com/start-here/
 
 - Machine Learning for Beginners - A Curriculum : https://github.com/microsoft/ML-For-Beginners
 
-- The transformer model, explained clearly : https://www.deriveit.org/notes/119
+- Made With ML : https://madewithml.com/
+
+- Mistral AI Cookbook : https://github.com/mistralai/cookbook
+
+- Natural Language Processing : https://www.coursera.org/specializations/natural-language-processing
+
+- Neuroscience 4 ML : https://neuro4ml.github.io/ - https://github.com/neuro4ml/exercises
 
 - Ollama : https://ollama.ai/blog
 
-- Lightning AI : https://lightning.ai/lightning-ai/studios/optimized-llm-inference-api-for-mistral-7b-using-vllm - https://lightning.ai/lightning-ai/studios/run-mistral-moe-mixture-of-experts
+- Patterns, Predictions and Actions - A story about Machine Learning: https://mlstory.org/
+
+- Python for Data Analyst : https://wesmckinney.com/book/
+
+- Practical Deep Learning : https://course.fast.ai/Lessons/lesson1.html
+
+- Quantization: https://huggingface.co/blog/merve/quantization
 
 - Scientific Python Lectures : https://lectures.scientific-python.org/
 
-- Geometric Deep Learning : https://geometricdeeplearning.com/blogs/
-
-- Attention is all you need; Attentional Neural Network Models : https://www.youtube.com/watch?v=rBCqOTEfxvg - Oct 2017
-
-- How GPT3 Works - Easily Explained with Animations : https://www.youtube.com/watch?v=MQnJZuBGmSQ - Aug 2020 - Basic overview
-
-- The Narrated Transformer Language Model : https://www.youtube.com/watch?v=-QH8fRhqFHM - Aug 2020 - Details on architecture
-
-- Interfaces for Explaining Transformer Language Models: https://jalammar.github.io/explaining-transformers - 2020
+- The Illustrated Transformer : https://jalammar.github.io/illustrated-transformer/
 
 - The little book of deep learning : https://fleuret.org/public/lbdl.pdf
 
-- Machine Learning Developer Notes : https://9600.dev/posts/machine-learning-developer-notes/
+- The Narrated Transformer Language Model : https://www.youtube.com/watch?v=-QH8fRhqFHM - Aug 2020 - Details on architecture
 
-- Made With ML : https://madewithml.com/
+- Transformers from Scratch : https://www.kaggle.com/code/auxeno/transformers-from-scratch
 
-- Deep Learning Short Courses : https://www.deeplearning.ai/short-courses/
+- The transformer model, explained clearly : https://www.deriveit.org/notes/119
 
-- CyientifiQ Innovation League : https://cyient.hackerearth.com/ - 16/09/2023 - 23/10/2023
+- Pandas cheat sheet : https://github.com/pandas-dev/pandas/blob/main/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
+
+
+### Chats
+
+- Groq (LPU) : https://groq.com/
+
+- Julius AI : https://julius.ai/
+
+- Libertai : https://chat.libertai.io/#/
 
 
 ### Discord and related github
