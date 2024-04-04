@@ -4,6 +4,28 @@ A valuable collection of latest information and learning resources on NLP, Trans
 
 ## Latest News
 
+- Sora: first impressions : https://openai.com/blog/sora-first-impressions - 25/03/2024
+
+- 16 Changes to the Way Enterprises Are Building and Buying Generative AI : https://a16z.com/generative-ai-enterprise-2024 - 21/03/2024
+
+- The iPhone-maker is in ‘active’ talks to bring Gemini to the iPhone, and has also considered using ChatGPT : https://www.theverge.com/2024/3/18/24104626/apple-license-google-gemini-generative-ai-openai-chatgpt - 18/03/2024
+
+- Stability AI brings a new dimension to video with Stable Video 3D : https://venturebeat.com/ai/stability-ai-brings-a-new-dimension-to-video-with-stable-video-3d - 18/03/2024
+
+- Open Release of Grok-1 : https://x.ai/blog/grok-os - 17/03/2024
+
+- Anthropic releases Claude 3 Haiku, an AI model built for speed and affordability : https://venturebeat.com/ai/anthropic-releases-claude-3-haiku-an-ai-model-built-for-speed-and-affordability - 13/03/2024
+
+- OpenAI's GPT-4.5 Turbo leaked on search engines and could launch in June : https://the-decoder.com/openais-gpt-4-5-turbo-leaked-on-search-engines-and-could-launch-in-june - 12/03/2024
+
+- Introducing Devin, the first AI software engineer : https://www.cognition-labs.com/introducing-devin - 12/03/2024
+
+- Cohere releases powerful 'Command-R' language model for enterprise use : https://venturebeat.com/ai/cohere-releases-powerful-command-r-language-model-for-enterprise-use - 11/03/2024
+
+- Salesforce announces new AI tools for doctors : https://www.cnbc.com/2024/03/07/salesforce-announces-new-ai-tools-for-doctors.html - 07/03/2024
+
+- Inflection-2.5: meet the world's best personal AI : https://inflection.ai/inflection-2-5 - 07/03/2024
+
 - Competition in AI video generation heats up as DeepMind alums unveil Haiper : https://techcrunch.com/2024/03/05/competition-in-ai-video-generation-heats-up-as-deepmind-alums-unveil-haiper - 06/03/2024
 
 - Introducing the next generation of Claude : https://www.anthropic.com/news/claude-3-family - 03/03/2024
@@ -84,6 +106,7 @@ A valuable collection of latest information and learning resources on NLP, Trans
 
 - Introducing DeciLM-7B: The Fastest and Most Accurate 7 Billion-Parameter LLM to Date : https://deci.ai/blog/introducing-decilm-7b-the-fastest-and-most-accurate-7b-large-language-model-to-date - 12/12/2023
 
+
 - Google Deepmind unveils its most advanced AI image generator, Imagen 2 : https://the-decoder.com/google-deepmind-unveils-its-most-advanced-ai-image-generator-imagen-2 - 13/12/2023
 
 - Augmenting Local AI with Browser Data: Introducing MemoryCache : https://future.mozilla.org/blog/introducing-memorycache/ - 12/12/2023
@@ -128,6 +151,16 @@ A valuable collection of latest information and learning resources on NLP, Trans
 
 
 ## Articles and research papers
+
+- Long-form factuality in large language models : https://arxiv.org/abs/2403.18802 - 27/03/2024
+
+- Data Interpreter: An LLM Agent For Data Science : https://arxiv.org/abs/2402.18679v1 - 12/03/2024
+
+- Stealing Part of a Production Language Model : https://arxiv.org/abs/2403.06634v1 - 11/03/2024
+
+- Chain-of-Thought Reasoning Without Prompting : https://arxiv.org/abs/2402.10200v1 - 15/02/2024
+
+- World Model on Million-Length Video And Language With RingAttention : https://arxiv.org/abs/2402.08268v1 - 13/02/2024
 
 - Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks : https://arxiv.org/abs/2402.04248v1 - 06/02/2024
 
@@ -286,6 +319,8 @@ https://huggingface.co/blog/4bit-transformers-bitsandbytes - a lightweight wrapp
 
 - LMSYS - Fastchat: https://github.com/lm-sys/FastChat -> Vicuna : https://lmsys.org/blog/2023-03-30-vicuna - Cost of training Vicuna-13B is around $300 -> Vicuna Installation Guide : https://github.com/vicuna-tools/vicuna-installation-guide
 
+- LMSYS Chatbot Arena Leaderboard : https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
+
 - Med-Flamingo : https://github.com/snap-stanford/med-flamingo
 
 - Mistral AI : https://github.com/mistralai/mistral-src
@@ -312,15 +347,25 @@ https://huggingface.co/blog/4bit-transformers-bitsandbytes - a lightweight wrapp
 
 - WizardVicunaLM : https://github.com/melodysdreamj/WizardVicunaLM - Wizard's dataset + ChatGPT's conversation extension + Vicuna's tuning method
 
+- BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains : https://huggingface.co/BioMistral/BioMistral-7B
+
+- Cohere : https://cohere.com/
+
+- Claude : https://claude.ai/
+
 - Groq (LPU) : https://groq.com/
 
 - Huggingface : https://huggingface.co : https://huggingface.co/models
 
 - Ideogram : https://ideogram.ai/
 
+- LlamaIndex : https://www.llamaindex.ai/
+
 - Lumiere : https://lumiere-video.github.io/
 
 - Midjourney : https://www.midjourney.com
+
+- Mistral AI : https://mistral.ai/
 
 - Modular - mojo : https://www.modular.com/mojo
 
@@ -331,7 +376,6 @@ https://huggingface.co/blog/4bit-transformers-bitsandbytes - a lightweight wrapp
 - Stable diffusion : https://stability.ai/stablediffusion
 
 - Large World Model (LWM) : https://github.com/LargeWorldModel/LWM
-
 
 
 ### Learning/Education
@@ -374,6 +418,8 @@ https://huggingface.co/blog/4bit-transformers-bitsandbytes - a lightweight wrapp
 
 - Made With ML : https://madewithml.com/
 
+- A Visual Guide to Mamba and State Space Models : https://maartengrootendorst.substack.com/p/a-visual-guide-to-mamba-and-state
+
 - Mistral AI Cookbook : https://github.com/mistralai/cookbook
 
 - Natural Language Processing : https://www.coursera.org/specializations/natural-language-processing
@@ -383,6 +429,8 @@ https://huggingface.co/blog/4bit-transformers-bitsandbytes - a lightweight wrapp
 - Ollama : https://ollama.ai/blog
 
 - Patterns, Predictions and Actions - A story about Machine Learning: https://mlstory.org/
+
+- Prompt Engineering Guide: https://www.promptingguide.ai
 
 - Python for Data Analyst : https://wesmckinney.com/book/
 
@@ -407,11 +455,21 @@ https://huggingface.co/blog/4bit-transformers-bitsandbytes - a lightweight wrapp
 
 ### Chats
 
+- ChapGPT : https://chat.openai.com
+
+- Claude : https://claude.ai/
+
+- Cohere : https://coral.cohere.com/
+
 - Groq (LPU) : https://groq.com/
+
+- HuggingFace : https://huggingface.co/chat/
 
 - Julius AI : https://julius.ai/
 
 - Libertai : https://chat.libertai.io/#/
+
+- Mistral : https://chat.mistral.ai/
 
 
 ### Discord and related github
@@ -420,7 +478,8 @@ https://huggingface.co/blog/4bit-transformers-bitsandbytes - a lightweight wrapp
 
 - FastChat (LMSys) : https://discord.gg/HSWAKCrnFx and https://github.com/lm-sys/FastChat and https://chat.lmsys.org - FastChat is an open platform for training, serving, and evaluating large language model based chatbots
 
+- Olama : https://discord.com/invite/ollama and https://ollama.com
+
 - Text generation web UI: https://discord.gg/jwZCF2dPQN and https://github.com/oobabooga/text-generation-webui
 
 - Tom Jobbins (TheBloke) : https://discord.gg/theblokeai and https://github.com/TheBloke
-

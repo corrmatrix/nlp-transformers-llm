@@ -1,5 +1,27 @@
 ## Last News
 
+- Sora: first impressions : https://openai.com/blog/sora-first-impressions - 25/03/2024
+
+- 16 Changes to the Way Enterprises Are Building and Buying Generative AI : https://a16z.com/generative-ai-enterprise-2024 - 21/03/2024
+
+- The iPhone-maker is in ‘active’ talks to bring Gemini to the iPhone, and has also considered using ChatGPT : https://www.theverge.com/2024/3/18/24104626/apple-license-google-gemini-generative-ai-openai-chatgpt - 18/03/2024
+
+- Stability AI brings a new dimension to video with Stable Video 3D : https://venturebeat.com/ai/stability-ai-brings-a-new-dimension-to-video-with-stable-video-3d - 18/03/2024
+
+- Open Release of Grok-1 : https://x.ai/blog/grok-os - 17/03/2024
+
+- Anthropic releases Claude 3 Haiku, an AI model built for speed and affordability : https://venturebeat.com/ai/anthropic-releases-claude-3-haiku-an-ai-model-built-for-speed-and-affordability - 13/03/2024
+
+- OpenAI's GPT-4.5 Turbo leaked on search engines and could launch in June : https://the-decoder.com/openais-gpt-4-5-turbo-leaked-on-search-engines-and-could-launch-in-june - 12/03/2024
+
+- Introducing Devin, the first AI software engineer : https://www.cognition-labs.com/introducing-devin - 12/03/2024
+
+- Cohere releases powerful 'Command-R' language model for enterprise use : https://venturebeat.com/ai/cohere-releases-powerful-command-r-language-model-for-enterprise-use - 11/03/2024
+
+- Salesforce announces new AI tools for doctors : https://www.cnbc.com/2024/03/07/salesforce-announces-new-ai-tools-for-doctors.html - 07/03/2024
+
+- Inflection-2.5: meet the world's best personal AI : https://inflection.ai/inflection-2-5 - 07/03/2024
+
 - Competition in AI video generation heats up as DeepMind alums unveil Haiper : https://techcrunch.com/2024/03/05/competition-in-ai-video-generation-heats-up-as-deepmind-alums-unveil-haiper - 06/03/2024
 
 - Introducing the next generation of Claude : https://www.anthropic.com/news/claude-3-family - 03/03/2024
