@@ -470,6 +470,8 @@ https://huggingface.co/blog/4bit-transformers-bitsandbytes - a lightweight wrapp
 
 - Libertai : https://chat.libertai.io/#/
 
+- Meta AI : https://www.meta.ai/
+
 - Mistral : https://chat.mistral.ai/
 
 
