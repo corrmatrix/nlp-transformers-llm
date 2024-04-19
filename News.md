@@ -1,5 +1,21 @@
 ## Last News
 
+- LLAMA 3 : https://llama.meta.com/llama3 - 19/04/2024
+
+- Groq CEO: 'We No Longer Sell Hardware' : https://www.eetimes.com/groq-ceo-we-no-longer-sell-hardware - 25/04/2024
+
+- Udio AI Music Raises $10 Million, $6.5 Million For Spines AI, More Sora, Cinematic AI : https://www.forbes.com/sites/charliefink/2024/04/11/udio-ai-music-raises-10-million-65-million-for-spines-ai-more-sora-cinematic-ai/?sh=57c270912ed6 - 11/04/2024
+
+- Mistral AI Stuns With Surprise Launch of New Mixtral 8x22B Model : https://analyticsindiamag.com/mistral-ai-stuns-with-surprise-launch-of-new-mixtral-8x22b-model - 10/04/2024
+
+- Google updates its Gemma AI model family with variants for coding and research : https://siliconangle.com/2024/04/10/google-updates-gemma-ai-model-family-variants-coding-research - 10/04/2024
+
+- AI editing tools are coming to all Google Photos users : https://blog.google/products/photos/google-photos-editing-features-availability - 10/04/2024
+
+- Humanoid robots are joining the Mercedes-Benz workforce : https://www.freethink.com/robots-ai/apollo-robots - 30/03/2024
+
+- Introducing DBRX: A New State-of-the-Art Open LLM : https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm - 27/03/2024
+
 - Sora: first impressions : https://openai.com/blog/sora-first-impressions - 25/03/2024
 
 - 16 Changes to the Way Enterprises Are Building and Buying Generative AI : https://a16z.com/generative-ai-enterprise-2024 - 21/03/2024
