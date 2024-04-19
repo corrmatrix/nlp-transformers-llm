@@ -4,6 +4,22 @@ A valuable collection of latest information and learning resources on NLP, Trans
 
 ## Latest News
 
+- LLAMA 3 : https://llama.meta.com/llama3 - 19/04/2024
+
+- Groq CEO: 'We No Longer Sell Hardware' : https://www.eetimes.com/groq-ceo-we-no-longer-sell-hardware - 25/04/2024
+
+- Udio AI Music Raises $10 Million, $6.5 Million For Spines AI, More Sora, Cinematic AI : https://www.forbes.com/sites/charliefink/2024/04/11/udio-ai-music-raises-10-million-65-million-for-spines-ai-more-sora-cinematic-ai/?sh=57c270912ed6 - 11/04/2024
+
+- Mistral AI Stuns With Surprise Launch of New Mixtral 8x22B Model : https://analyticsindiamag.com/mistral-ai-stuns-with-surprise-launch-of-new-mixtral-8x22b-model - 10/04/2024
+
+- Google updates its Gemma AI model family with variants for coding and research : https://siliconangle.com/2024/04/10/google-updates-gemma-ai-model-family-variants-coding-research - 10/04/2024
+
+- AI editing tools are coming to all Google Photos users : https://blog.google/products/photos/google-photos-editing-features-availability - 10/04/2024
+
+- Humanoid robots are joining the Mercedes-Benz workforce : https://www.freethink.com/robots-ai/apollo-robots - 30/03/2024
+
+- Introducing DBRX: A New State-of-the-Art Open LLM : https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm - 27/03/2024
+
 - Sora: first impressions : https://openai.com/blog/sora-first-impressions - 25/03/2024
 
 - 16 Changes to the Way Enterprises Are Building and Buying Generative AI : https://a16z.com/generative-ai-enterprise-2024 - 21/03/2024
@@ -106,7 +122,6 @@ A valuable collection of latest information and learning resources on NLP, Trans
 
 - Introducing DeciLM-7B: The Fastest and Most Accurate 7 Billion-Parameter LLM to Date : https://deci.ai/blog/introducing-decilm-7b-the-fastest-and-most-accurate-7b-large-language-model-to-date - 12/12/2023
 
-
 - Google Deepmind unveils its most advanced AI image generator, Imagen 2 : https://the-decoder.com/google-deepmind-unveils-its-most-advanced-ai-image-generator-imagen-2 - 13/12/2023
 
 - Augmenting Local AI with Browser Data: Introducing MemoryCache : https://future.mozilla.org/blog/introducing-memorycache/ - 12/12/2023
@@ -121,36 +136,15 @@ A valuable collection of latest information and learning resources on NLP, Trans
 
 - China Open Sources DeepSeek LLM, Outperforms Llama 2 and Claude-2 : https://analyticsindiamag.com/china-open-sources-deepseek-llm-outperforms-llama-2-and-claude-2 - 01/12/2023
 
-- Starling-7B: Increasing LLM Helpfulness & Harmlessness with RLAIF : https://starling.cs.berkeley.edu/ - 30/11/2023
-
-- Perplexity AI Introduces New Online LLMs for Real-Time Information Access  : https://analyticsindiamag.com/perplexity-ai-introduces-new-online-llms-for-real-time-information-access - 29/11/2023
-
--  Microsoft Paint's DALL-E 3 integration is rolling out on Windows 11 : https://www.windowslatest.com/2023/11/28/microsoft-paints-dall-e-3-integration-is-rolling-out-on-windows-11 - 28/11/2023
-
-- Unpacking the hype around OpenAI’s rumored new Q* model : https://www.technologyreview.com/2023/11/27/1083886/unpacking-the-hype-around-openais-rumored-new-q-model/ - 27/11/2023
-
-- New technique can accelerate language models by 300x : https://venturebeat.com/ai/new-technique-can-accelerate-language-models-by-300x/ - 24/11/2023
-
-- Who is leading in AI? An analysis of industry AI research : https://epochai.org/blog/who-is-leading-in-ai-an-analysis-of-industry-ai-research - 23/11/2023
-
-- OpenAI rival Anthropic makes its Claude chatbot even more useful : https://www.theverge.com/2023/11/21/23971070/anthropic-claude-2-1-openai-ai-chatbot-update-beta-tools - 22/11/2023
-
-- Inflection-2 : The Next Step Up : https://inflection.ai/inflection-2 - 22/11/2023
-
-- Introducing Claude 2.1 : https://www.anthropic.com/index/claude-2-1 - 21/11/2023
-
-- Microsoft unveils first AI chip, Maia 100, and Cobalt CPU : https://www.zdnet.com/article/microsoft-unveils-first-ai-chip-maia-100-and-cobalt-cpu - 15/11/2023
-
-- Prompt Engineering plus AlphaZero: Microsoft's XOT improves LLM's ability to generalize : https://the-decoder.com/prompt-engineering-plus-alphazero-microsofts-xot-improves-llms-ability-to-generalize/ - https://multiplatform.ai/microsoft-introduces-everything-of-thought-xot-to-enhance-ai-reasoning - 12/11/2023
-
-- New models and developer products announced at DevDay : https://openai.com/blog/new-models-and-developer-products-announced-at-devday - 06/11/2023
-
-- Valued at $1B, Kai-Fu Lee's LLM startup unveils open source model : https://techcrunch.com/2023/11/05/valued-at-1b-kai-fu-lees-llm-startup-unveils-open-source-model - 06/11/2023
-
 [Full listing of latest news](News.md)
 
 
 ## Articles and research papers
+
+- THE AI INDEX REPORT - Measuring
+trends in AI : https://aiindex.stanford.edu/report - Apr 2024
+
+- Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length : https://arxiv.org/abs/2404.08801 - 12/04/2024
 
 - Long-form factuality in large language models : https://arxiv.org/abs/2403.18802 - 27/03/2024
 
@@ -296,12 +290,15 @@ by Generative Pre-Training : https://cdn.openai.com/research-covers/language-uns
 
 ### Github and softwares
 
+
 - bitsandbytes : https://github.com/TimDettmers/bitsandbytes -
 https://huggingface.co/blog/4bit-transformers-bitsandbytes - a lightweight wrapper around CUDA custom functions, in particular 8-bit optimizers, matrix multiplication (LLM.int8()), and quantization functions
 
 - BIG-Bench Hard : https://github.com/suzgunmirac/BIG-Bench-Hard
 
 - Bocoel : https://github.com/rentruewang/bocoel
+
+- Braq (Customizable data format for config files, AI prompts, and more) : https://github.com/pyrustic/braq
 
 - Dalai : https://github.com/cocktailpeanut/dalai - Run LLaMA and Alpaca on your computer
 
@@ -322,6 +319,8 @@ https://huggingface.co/blog/4bit-transformers-bitsandbytes - a lightweight wrapp
 - LMSYS Chatbot Arena Leaderboard : https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
 
 - Med-Flamingo : https://github.com/snap-stanford/med-flamingo
+
+- MS Engineering Playbook : https://microsoft.github.io/code-with-engineering-playbook/
 
 - Mistral AI : https://github.com/mistralai/mistral-src
 
@@ -376,6 +375,8 @@ https://huggingface.co/blog/4bit-transformers-bitsandbytes - a lightweight wrapp
 - Stable diffusion : https://stability.ai/stablediffusion
 
 - Large World Model (LWM) : https://github.com/LargeWorldModel/LWM
+
+- Udio : https://www.udio.com
 
 
 ### Learning/Education
