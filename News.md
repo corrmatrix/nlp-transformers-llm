@@ -1,6 +1,89 @@
 ## Last News
 
+-  Large Enough (Mistral Large 2) : https://mistral.ai/news/mistral-large-2407/ - 01/07/2024
+
+- Introducing Llama 3.1: Our most capable models to date : https://ai.meta.com/blog/meta-llama-3-1 and https://llama.meta.com/ - 23/07/2024
+
+- SearchGPT Prototype : https://openai.com/index/searchgpt-prototype - 25/07/2024
+
+- Hugging Face Releases SmolLM, a Series of Small Language Models, Beats Qwen2 and Phi 1.5 : https://analyticsindiamag.com/ai-news-updates/hugging-face-releases-smollm-a-series-of-small-language-models-beats-qwen2-and-phi-1-5/ - 20/07/2024
+
+- Mistral AI and NVIDIA Unveil Mistral NeMo 12B, a Cutting-Edge Enterprise AI Model : https://blogs.nvidia.com/blog/mistral-nvidia-ai-model/ - 18/07/2024
+
+- OpenAI unveils GPT-4o mini, a smaller and cheaper AI model : https://techcrunch.com/2024/07/18/openai-unveils-gpt-4o-mini-a-small-ai-model-powering-chatgpt - 18/07/2024
+
+- Mistral releases Codestral Mamba for faster, longer code generation : https://venturebeat.com/ai/mistral-releases-codestral-mamba-for-faster-longer-code-generation/ - 16/07/2024
+
+- Anthropic releases Claude app for Android : https://techcrunch.com/2024/07/16/anthropic-releases-claude-app-for-android - 16/07/2024
+
+- Exclusive: OpenAI working on new reasoning technology under code name ‘Strawberry’ : https://www.reuters.com/technology/artificial-intelligence/openai-working-new-reasoning-technology-under-code-name-strawberry-2024-07-12/ - 16/07/2024
+
+- Exclusive: meet Haiper 1.5, the new AI video generation model challenging Sora, Runway : https://venturebeat.com/ai/exclusive-meet-haiper-1-5-the-new-ai-video-generation-model-challenging-sora-runway/ - 16/07/2024
+
+- Stable Diffusion 3 License Revamped Amid Blowback, Promising Better Model : https://decrypt.co/238871/stable-diffusion-3-license-revamped-amid-blowback - 08/07/2024
+
+- Elon Musk Reveals Plans To Make World’s “Most Powerful” 100,000 NVIDIA GPU AI Cluster : https://wccftech.com/elon-musk-reveals-plans-to-make-worlds-most-powerful-10000-nvidia-gpu-ai-cluster - 09/07/2024
+
+-  Anthropic’s Claude adds a prompt playground to quickly improve your AI apps: https://techcrunch.com/2024/07/09/anthropics-claude-adds-a-prompt-playground-to-quickly-improve-your-ai-apps/ - 09/07/2024
+
+- Odyssey Building 'Hollywood-Grade' AI Text-to-Video Model to Compete With Sora, Gen-3 Alpha : https://www.gadgets360.com/ai/news/odyssey-ai-text-to-video-model-hollywood-grade-report-6067589 - 09/07/2024
+
+- Groq unveils lightning-fast LLM engine; developer base rockets past 280K in 4 months : https://venturebeat.com/ai/groq-releases-blazing-fast-llm-engine-passes-270000-user-mark/ - 08/07/2024
+
+- Mozilla Llamafile, Builders Projects Shine at AI Engineers World’s Fair : https://thenewstack.io/mozilla-llamafile-builders-projects-shine-at-ai-engineers-worlds-fair/?utm_referrer=https%3A%2F%2Fwww.lastweekinai.com%2F - 02/07/2024
+
+- Exclusive: This is Google AI, and it's coming to the Pixel 9 : https://www.androidauthority.com/google-ai-recall-pixel-9-3456399/ - 02/07/2024
+
+- Meta is about to launch its biggest Llama model yet — here’s why it’s a big deal : https://www.tomsguide.com/ai/meta-is-about-to-launch-its-biggest-llama-model-yet-heres-why-its-a-big-deal - 02/07/2024
+
+- Runway’s Gen-3 Alpha AI video model now available – but there’s a catch : https://venturebeat.com/ai/runways-gen-3-alpha-ai-video-model-now-available-but-theres-a-catch/ - 01/07/2024
+
+- Google’s Gemma 2 series launches with not one, but two lightweight model options—a 9B and 27B : https://venturebeat.com/ai/googles-gemma-2-series-launches-with-not-one-but-two-lightweight-model-options-a-9b-and-27b/ - 27/06/2024
+
+- Meet Sohu: The World’s First Transformer Specialized Chip ASIC : https://www.marktechpost.com/2024/06/26/meet-sohu-the-worlds-first-transformer-specialized-chip-asic - 26/06/2024
+
+- Anthropic Debuts Collaboration Tools for Claude AI Assistant : https://www.pymnts.com/artificial-intelligence-2/2024/anthropic-debuts-collaboration-tools-for-claude-ai-assistant - 25/06/2024
+
+- Anthropic just dropped Claude 3.5 Sonnet with better vision and a sense of humor : https://www.tomsguide.com/ai/anthropic-just-dropped-claude-35-sonnet-with-better-vision-and-a-sense-of-humor - 21/06/2024
+
+- Runway unveils new hyper realistic AI video model Gen-3 Alpha, capable of 10-second-long clips : https://venturebeat.com/ai/runway-unveils-new-hyper-realistic-ai-video-model-gen-3-alpha-capable-of-10-second-long-clips/ - 17/06/2024
+
+- ‘We don’t need Sora anymore’: Luma’s new AI video generator Dream Machine slammed with traffic after debut : https://venturebeat.com/ai/we-dont-need-sora-anymore-lumas-new-ai-video-generator-dream-machine-slammed-with-traffic-after-debut - 12/06/2024
+
+- ‘Apple Intelligence’ will automatically choose between on-device and cloud-powered AI : https://www.theverge.com/2024/6/7/24173528/apple-intelligence-ai-features-openai-chatbot - 07/06/2024
+
+- Impressive KLING AI video generator now available internationally : https://the-decoder.com/impressive-kling-ai-video-generator-now-available-internationally - 06/06/2024
+
+- Udio introduces new udio-130 music generation model and more advanced features : https://braintitan.medium.com/udio-introduces-new-udio-130-music-generation-model-and-more-advanced-features-3f08b9909f7b - 30/05/2024
+
+- Perplexity AI's new feature will turn your searches into shareable pages : https://techcrunch.com/2024/05/30/perplexity-ais-new-feature-will-turn-your-searches-into-sharable-pages - 30/05/2024
+
+- PwC agrees deal to become OpenAI’s first reseller and largest enterprise user : https://www.cnbc.com/2024/05/29/pwc-to-become-openais-first-reseller-and-largest-enterprise-user.html - 29/05/2024
+
+- Opera is adding Google's Gemini AI to its browser : https://www.engadget.com/opera-is-adding-googles-gemini-ai-to-its-browser-120013023.html - 28/05/2024
+
+-  Google unveils Veo and Imagen 3, its latest AI media creation models: https://www.engadget.com/google-unveils-veo-and-imagen-3-its-latest-ai-media-creation-models-173617373.html - 15/05/2024
+
+- Google is redesigning its search engine — and it’s AI all the way down : https://www.theverge.com/2024/5/14/24155321/google-search-ai-results-page-gemini-overview - 15/05/2024
+
+- OpenAI releases GPT-4o, a faster model that’s free for all ChatGPT users : https://www.theverge.com/2024/5/13/24155493/openai-gpt-4o-launching-free-for-all-chatgpt-users - 14/05/2024
+
+- Stability AI sows gen AI discord with Stable Artisan : https://venturebeat.com/ai/stability-ai-sows-gen-ai-discord-with-stable-artisan/ - 09/05/2024
+
+- New Microsoft AI model may challenge GPT-4 and Google Gemini : https://arstechnica.com/information-technology/2024/05/microsoft-developing-mai-1-language-model-that-may-compete-with-openai-report/ - 07/05/2024
+
+-  GitHub releases an AI-powered tool aiming for a 'radically new way of building software' : https://www.zdnet.com/article/github-releases-an-ai-powered-tool-that-is-a-radically-new-way-of-building-software/ - 29/04/2024
+
+- Microsoft launches Phi-3, its smallest AI model yet : https://www.theverge.com/2024/4/23/24137534/microsoft-phi-3-launch-small-ai-language-model - 23/04/2024
+
+- Introducing Phi-3: Redefining what’s possible with SLMs : https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms - 23/04/2024
+
 - LLAMA 3 : https://llama.meta.com/llama3 - 19/04/2024
+
+- Amazon Music’s Maestro lets listeners make AI playlists : https://www.theverge.com/2024/4/16/24132129/amazon-music-maestro-ai-playlist-prompts - 17/04/2024
+
+
+- TSMC's $65 billion bet still leaves US missing piece of chip puzzle : https://arstechnica.com/gadgets/2024/04/tsmcs-65-billion-bet-still-leaves-us-missing-piece-of-chip-puzzle - 12/04/2024
 
 - Udio AI Music Raises $10 Million, $6.5 Million For Spines AI, More Sora, Cinematic AI : https://www.forbes.com/sites/charliefink/2024/04/11/udio-ai-music-raises-10-million-65-million-for-spines-ai-more-sora-cinematic-ai/?sh=57c270912ed6 - 11/04/2024
 
@@ -9,6 +92,8 @@
 - Google updates its Gemma AI model family with variants for coding and research : https://siliconangle.com/2024/04/10/google-updates-gemma-ai-model-family-variants-coding-research - 10/04/2024
 
 - AI editing tools are coming to all Google Photos users : https://blog.google/products/photos/google-photos-editing-features-availability - 10/04/2024
+
+- Elon Musk says the next-generation Grok 3 model will require 100,000 Nvidia H100 GPUs to train : https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-the-next-generation-grok-3-model-will-require-100000-nvidia-h100-gpus-to-train - 10/04/2024
 
 - Groq CEO: 'We No Longer Sell Hardware' : https://www.eetimes.com/groq-ceo-we-no-longer-sell-hardware - 05/04/2024
 
@@ -117,7 +202,6 @@
 - Instagram introduces GenAI powered background editing tool : https://techcrunch.com/2023/12/14/instagram-introduces-gen-ai-powered-background-editing-tool/ - 14/12/2023
 
 - Introducing DeciLM-7B: The Fastest and Most Accurate 7 Billion-Parameter LLM to Date : https://deci.ai/blog/introducing-decilm-7b-the-fastest-and-most-accurate-7b-large-language-model-to-date - 12/12/2023
-
 
 - Google Deepmind unveils its most advanced AI image generator, Imagen 2 : https://the-decoder.com/google-deepmind-unveils-its-most-advanced-ai-image-generator-imagen-2 - 13/12/2023
 
