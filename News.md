@@ -1,6 +1,6 @@
 ## Last News
 
--  Large Enough (Mistral Large 2) : https://mistral.ai/news/mistral-large-2407/ - 01/07/2024
+-  Large Enough (Mistral Large 2) : https://mistral.ai/news/mistral-large-2407/ - 24/07/2024
 
 - Introducing Llama 3.1: Our most capable models to date : https://ai.meta.com/blog/meta-llama-3-1 and https://llama.meta.com/ - 23/07/2024
 
