@@ -4,6 +4,59 @@ A valuable collection of latest information and learning resources on NLP, Trans
 
 ## Latest News
 
+- Llama 3.2: Revolutionizing edge AI and vision with open, customizable models : https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/ - 25/09/2024
+
+- Introducing Molmo: A Family of State-of-the-Art Open Multimodal Models : https://www.businesswire.com/news/home/20240925326133/en/Introducing-Molmo-A-Family-of-State-of-the-Art-Open-Multimodal-Models - https://molmo.allenai.org/blog - 25/09/2024
+
+- AnyGraph: An Effective and Efficient Graph Foundation Model Designed to Address the Multifaceted Challenges of Structure and Feature Heterogeneity Across Diverse Graph Datasets : https://www.marktechpost.com/2024/09/02/anygraph-an-effective-and-efficient-graph-foundation-model-designed-to-address-the-multifaceted-challenges-of-structure-and-feature-heterogeneity-across-diverse-graph-datasets/ - 02/09/2024
+
+- Alibaba releases new AI model Qwen2-VL that can analyze videos more than 20 minutes long : https://venturebeat.com/ai/alibaba-releases-new-ai-model-qwen2-vl-that-can-analyze-videos-more-than-20-minutes-long - 29/08/2024
+
+- Forget Sora — MiniMax is a new realistic AI video generator and it’s seriously impressive : https://www.tomsguide.com/ai/ai-image-video/forget-sora-minimax-is-a-new-realistic-ai-video-generator-and-it-is-seriously-impressive - 02/09/2024
+
+- Qwen2-VL: To See the World More Clearly : https://qwenlm.github.io/blog/qwen2-vl/ - 29/08/2024
+
+- 100M Token Context Windows : https://magic.dev/blog/100m-token-context-windows - 29/08/2024
+
+- OpenAI Aims to Release New AI Model, ‘Strawberry,’ in Fall : https://www.pymnts.com/news/artificial-intelligence/2024/openai-aims-release-new-ai-model-strawberry-fall/ - 27/08/2024
+
+- Microsoft reveals Phi-3.5 — this new small AI model outperforms Gemini and GPT-4o : https://www.tomsguide.com/ai/microsoft-reveals-phi-35-this-new-small-ai-model-outperforms-gemini-and-gpt-4o - 23/08/2024
+
+- Ideogram AI expands its features with v2 model and color palette options : https://www.testingcatalog.com/ideogram-ai-expands-its-features-with-v2-model-and-color-palette-options/ - 21/08/2024
+
+- Luma drops Dream Machine 1.5 — here’s what’s new : https://www.tomsguide.com/ai/ai-image-video/luma-drops-dream-machine-15-heres-whats-new - 20/08/2024
+
+- Samsung to Adopt High-NA Lithography Alongside Intel, Ahead of TSMC - https://www.extremetech.com/computing/samsung-to-adopt-high-na-lithography-alongside-intel-ahead-of-tsmc - 19/08/2024
+
+- Google Releases Powerful AI Image Generator You Can Use for Free : https://petapixel.com/2024/08/19/google-releases-powerful-ai-image-generator-you-can-use-for-free-imagen-3 - 19/08/2024
+
+- Google’s AI-generated search summaries change how they show their sources : https://www.theverge.com/2024/8/15/24220581/google-search-ai-overviews-links-citations-expanded-rollout - 16/08/2024
+
+- Prompt Caching is Now Available on the Anthropic API for Specific Claude Models : https://www.marktechpost.com/2024/08/15/prompt-caching-is-now-available-on-the-anthropic-api-for-specific-claude-models/ - 15/08/2024
+
+- Unveiling Hermes 3: The First Full-Parameter Fine-Tuned Llama 3.1 405B Model is on Lambda’s Cloud : https://lambdalabs.com/blog/unveiling-hermes-3-the-first-fine-tuned-llama-3.1-405b-model-is-on-lambdas-cloud - https://nousresearch.com/hermes3/- 15/08/2024
+
+- Meet Black Forest Labs, the startup powering Elon Musk’s unhinged AI image generator : https://techcrunch.com/2024/08/14/meet-black-forest-labs-the-startup-powering-elon-musks-unhinged-ai-image-generator/ - 14/08/2024
+
+- OpenAI reveals an updated GPT-4o model - but can't quite explain how it's better : https://www.zdnet.com/article/openai-reveals-an-updated-gpt-4o-model-but-cant-quite-explain-how-its-better - 14/08/2024
+
+- Artists’ lawsuit against Stability AI and Midjourney gets more punch : https://www.theverge.com/2024/8/13/24219520/stability-midjourney-artist-lawsuit-copyright-trademark-claims-approved - 14/08/2024
+
+- FalconMamba 7B Released: The World’s First Attention-Free AI Model with 5500GT Training Data and 7 Billion Parameters : https://www.marktechpost.com/2024/08/12/falconmamba-7b-released-the-worlds-first-attention-free-ai-model-with-5500gt-training-data-and-7-billion-parameters/ - 12/08/2024
+
+- Perplexity AI: The Game-Changer in Conversational AI and Web Search : https://originality.ai/blog/perplexity-ai-statistics - 11/08/2024
+
+- Black Forest Labs Open-Source FLUX.1: A 12 Billion Parameter Rectified Flow Transformer Capable of Generating Images from Text Descriptions : https://www.marktechpost.com/2024/08/02/black-forest-labs-open-source-flux-1-a-12-billion-parameter-rectified-flow-transformer-capable-of-generating-images-from-text-descriptions/ - 02/08/2024
+
+- Runway just dropped image-to-video in Gen3 — I tried it and it changes everything : https://www.tomsguide.com/ai/ai-image-video/runway-drops-image-to-video-in-gen3-i-tried-it-and-it-changes-everything - 31/07/2024
+
+- Midjourney drops surprise v6.1 update — now humans look more real than ever : https://www.tomsguide.com/ai/ai-image-video/midjourney-drops-surprise-v61-update-now-humans-look-more-real-than-ever - 31/07/2024
+
+- Instagram starts letting people create AI versions of themselves : https://www.theverge.com/24209196/instagram-ai-characters-meta-ai-studio-release - 30/07/2024
+
+- Canva acquires Leonardo.ai to boost its generative AI efforts : https://techcrunch.com/2024/07/29/canva-acquires-leonardo-ai-to-boost-its-generative-ai-efforts/ - 29/07/2024
+
+- Microsoft is adding AI-powered summaries to Bing search results : https://www.engadget.com/microsoft-is-adding-ai-powered-summaries-to-bing-search-results-203053790.html - 25/07/2024
 
 -  Large Enough (Mistral Large 2) : https://mistral.ai/news/mistral-large-2407/ - 24/07/2024
 
