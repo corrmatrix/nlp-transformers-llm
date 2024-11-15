@@ -1,8 +1,20 @@
+- Mochi 1: A new SOTA in open-source video generation models : https://www.genmo.ai/blog - 23/10/2024
 
-## Purpose
-A valuable collection of latest information and learning resources on NLP, Transformers and Large Language Model.
+- Google DeepMind is making its AI text watermark open source : https://www.technologyreview.com/2024/10/23/1106105/google-deepmind-is-making-its-ai-text-watermark-open-source - 23/10/2024
 
-## Latest News
+- OpenAI Unveils Secret Meta Prompt—And It’s Very Different From Anthropic's Approach : https://decrypt.co/285854/openai-secret-meta-prompt-anthropic - 15/10/2024
+
+- INTELLECT-1: Launching the First Decentralized Training of a 10B Parameter Model : https://www.primeintellect.ai/blog/intellect-1 - 11/10/2024
+
+- All Gemini users can now generate images with Imagen 3 : https://9to5google.com/2024/10/09/gemini-imagen-3 - 09/10/2024
+
+- Meta announces Movie Gen, an AI-powered video generator : https://www.theverge.com/2024/10/4/24261990/meta-movie-gen-ai-video-generator-openai-sora - 05/10/2024
+
+- Black Forest Labs releases Flux 1.1 Pro and an API : https://venturebeat.com/ai/black-forest-labs-releases-flux-1-1-pro-and-an-api - 03/10/2024
+
+- Google brings ads to AI Overviews as it expands AI's role in search : https://techcrunch.com/2024/10/03/google-brings-ads-to-ai-overviews-and-rolls-out-ai-organized-pages - 03/10/2024
+
+- Meta Releases Llama 3.2—and Gives Its AI a Voice : https://www.wired.com/story/meta-releases-new-llama-model-ai-voice - 25/09/2024
 
 - Llama 3.2: Revolutionizing edge AI and vision with open, customizable models : https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/ - 25/09/2024
 
@@ -10,19 +22,21 @@ A valuable collection of latest information and learning resources on NLP, Trans
 
 - AnyGraph: An Effective and Efficient Graph Foundation Model Designed to Address the Multifaceted Challenges of Structure and Feature Heterogeneity Across Diverse Graph Datasets : https://www.marktechpost.com/2024/09/02/anygraph-an-effective-and-efficient-graph-foundation-model-designed-to-address-the-multifaceted-challenges-of-structure-and-feature-heterogeneity-across-diverse-graph-datasets/ - 02/09/2024
 
-- Alibaba releases new AI model Qwen2-VL that can analyze videos more than 20 minutes long : https://venturebeat.com/ai/alibaba-releases-new-ai-model-qwen2-vl-that-can-analyze-videos-more-than-20-minutes-long - 29/08/2024
-
 - Forget Sora — MiniMax is a new realistic AI video generator and it’s seriously impressive : https://www.tomsguide.com/ai/ai-image-video/forget-sora-minimax-is-a-new-realistic-ai-video-generator-and-it-is-seriously-impressive - 02/09/2024
 
 - Qwen2-VL: To See the World More Clearly : https://qwenlm.github.io/blog/qwen2-vl/ - 29/08/2024
 
 - 100M Token Context Windows : https://magic.dev/blog/100m-token-context-windows - 29/08/2024
 
+- Alibaba releases new AI model Qwen2-VL that can analyze videos more than 20 minutes long : https://venturebeat.com/ai/alibaba-releases-new-ai-model-qwen2-vl-that-can-analyze-videos-more-than-20-minutes-long - 29/08/2024
+
 - OpenAI Aims to Release New AI Model, ‘Strawberry,’ in Fall : https://www.pymnts.com/news/artificial-intelligence/2024/openai-aims-release-new-ai-model-strawberry-fall/ - 27/08/2024
+
+- Hermes 3 : https://nousresearch.com/hermes3/ - 24/08/2024
 
 - Microsoft reveals Phi-3.5 — this new small AI model outperforms Gemini and GPT-4o : https://www.tomsguide.com/ai/microsoft-reveals-phi-35-this-new-small-ai-model-outperforms-gemini-and-gpt-4o - 23/08/2024
 
-- Ideogram AI expands its features with v2 model and color palette options : https://www.testingcatalog.com/ideogram-ai-expands-its-features-with-v2-model-and-color-palette-options/ - 21/08/2024
+- Ideogram AI expands its features with v2 model and color palette options : https://www.testingcatalog.com/ideogram-ai-expands-its-features-with-v2-model-and-color-palette-options/ - https://about.ideogram.ai/2.0 - 21/08/2024
 
 - Luma drops Dream Machine 1.5 — here’s what’s new : https://www.tomsguide.com/ai/ai-image-video/luma-drops-dream-machine-15-heres-whats-new - 20/08/2024
 
@@ -58,9 +72,9 @@ A valuable collection of latest information and learning resources on NLP, Trans
 
 - Microsoft is adding AI-powered summaries to Bing search results : https://www.engadget.com/microsoft-is-adding-ai-powered-summaries-to-bing-search-results-203053790.html - 25/07/2024
 
--  Large Enough (Mistral Large 2) : https://mistral.ai/news/mistral-large-2407/ - 24/07/2024
+-  Large Enough (Mistral Large 2) : https://mistral.ai/news/mistral-large-2407 - 24/07/2024
 
-- Introducing Llama 3.1: Our most capable models to date : https://ai.meta.com/blog/meta-llama-3-1 and https://llama.meta.com/ - 23/07/2024
+- Introducing Llama 3.1: Our most capable models to date : https://ai.meta.com/blog/meta-llama-3-1 and https://llama.meta.com - 23/07/2024
 
 - SearchGPT Prototype : https://openai.com/index/searchgpt-prototype - 25/07/2024
 
@@ -252,8 +266,6 @@ A valuable collection of latest information and learning resources on NLP, Trans
 - AI-powered search engine Perplexity AI, now valued at $520M, raises $73.6M : https://techcrunch.com/2024/01/04/ai-powered-search-engine-perplexity-ai-now-valued-at-520m-raises-70m - 04/01/2024
 
 - Early Mickey Mouse is now in the public domain—and AI is already on the case : https://arstechnica.com/information-technology/2024/01/early-mickey-mouse-is-now-in-the-public-domain-and-ai-is-already-on-the-case/ - 03/01/2024
-
-- Midjourney Version 6: Look Ma, Text! : https://www.whytryai.com/p/midjourney-version-6 - 28/12/2023
 
 [Full listing of latest news](News.md)
 
