@@ -1,3 +1,9 @@
+## Purpose
+
+A valuable collection of latest information and learning resources on NLP, Transformers and Large Language Model.
+
+## Lastest News
+
 - Mochi 1: A new SOTA in open-source video generation models : https://www.genmo.ai/blog - 23/10/2024
 
 - Google DeepMind is making its AI text watermark open source : https://www.technologyreview.com/2024/10/23/1106105/google-deepmind-is-making-its-ai-text-watermark-open-source - 23/10/2024
