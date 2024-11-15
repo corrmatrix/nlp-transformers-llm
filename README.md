@@ -272,6 +272,10 @@
 
 ## Articles and research papers
 
+- Does your LLM truly unlearn? An embarrassingly simple approach to recover unlearned knowledge : https://arxiv.org/abs/2410.16454 - 21/10/2024
+
+- Diffusion Models Are Real-Time Game Engines : https://arxiv.org/abs/2408.14837v1 - 27/08/2024
+
 - Capabilities of Gemini Models in Medicine : https://arxiv.org/abs/2404.18416 - 29/04/2024
 
 - Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone : https://arxiv.org/abs/2404.14219 - 22/04/2024
