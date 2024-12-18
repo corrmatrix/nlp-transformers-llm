@@ -4,8 +4,6 @@ A valuable collection of latest information and learning resources on NLP, Trans
 
 ## Lastest News
 
-## Last News
-
 - Meta unveils a new, more efficient Llama model : https://techcrunch.com/2024/12/06/meta-unveils-a-new-more-efficient-llama-model - 06/12/2024
 
 - Google’s new generative AI video model is now available : https://www.theverge.com/2024/12/4/24312938/google-veo-generative-ai-video-model-available-preview - 04/12/2024
