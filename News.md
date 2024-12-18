@@ -1,12 +1,68 @@
 ## Last News
 
+- Meta unveils a new, more efficient Llama model : https://techcrunch.com/2024/12/06/meta-unveils-a-new-more-efficient-llama-model - 06/12/2024
+
+- Google’s new generative AI video model is now available : https://www.theverge.com/2024/12/4/24312938/google-veo-generative-ai-video-model-available-preview - 04/12/2024
+
+- DeepMind’s Genie 2 can generate interactive worlds that look like video games : https://techcrunch.com/2024/12/04/deepminds-genie-2-can-generate-interactive-worlds-that-look-like-video-games - 04/12/2024
+
+- Tencent Launches HunyuanVideo, an Open-Source AI Video Model : https://www.maginative.com/article/tencent-launches-hunyuanvideo-an-open-source-ai-video-model - 03/12/2024
+
+- Amazon Is Building a Mega AI Supercomputer With Anthropic : https://www.wired.com/story/amazon-reinvent-anthropic-supercomputer - 03/12/2024
+
+- Amazon announces Nova, a new family of multimodal AI models : https://techcrunch.com/2024/12/03/amazon-announces-nova-a-new-family-of-multimodal-ai-models - 03/12/2024
+
+- PRIME Intellect Releases INTELLECT-1 (Instruct + Base): The First 10B Parameter Language Model Collaboratively Trained Across the Globe : https://www.marktechpost.com/2024/11/29/prime-intellect-releases-intellect-1-instruct-base-the-first-10b-parameter-language-model-collaboratively-trained-across-the-globe - 29/11/2024
+
+- ElevenLabs launches GenFM to turn user content into AI-powered podcasts : https://www.testingcatalog.com/elevenlabs-launches-genfm-to-turn-user-content-into-ai-powered-podcasts - 28/11/2024
+
+- Runway launches Frames — a new AI image generator that creates custom worlds : https://www.tomsguide.com/ai/runway-launches-frames-a-new-ai-image-generator-that-creates-custom-worlds - 26/11/2024
+
+- Introducing FLUX.1 Tools : https://blackforestlabs.ai/flux-1-tools - 21/11/2024
+
+- OpenScholar: The open-source A.I. that’s outperforming GPT-4o in scientific research : https://venturebeat.com/ai/openscholar-the-open-source-a-i-thats-outperforming-gpt-4o-in-scientific-research - 20/11/2024
+
+- DeepSeek’s first reasoning model R1-Lite-Preview turns heads, beating OpenAI o1 performance : https://venturebeat.com/ai/deepseeks-first-reasoning-model-r1-lite-preview-turns-heads-beating-openai-o1-performance - 20/11/2024
+
+- A statistical approach to model evaluations : https://www.anthropic.com/research/statistical-approach-to-model-evals - 20/11/2024
+
+- Suno V4 Ai Music Generator Is Out Now And It’s Very Impressive : https://9meters.com/entertainment/music-entertainment/suno-v4-is-out-now-features-release-date-whats-new - 20/11/2024
+
+- Google’s Gemini chatbot now has memory : https://techcrunch.com/2024/11/19/googles-gemini-chatbot-now-has-memory - 19/11/2024
+
+- Perplexity introduces a shopping feature for Pro users in the US : https://techcrunch.com/2024/11/18/perplexity-introduces-a-shopping-feature-for-pro-users - 18/11/2024
+
+- Mistral unleashes Pixtral Large and upgrades Le Chat into full-on ChatGPT competitor : https://venturebeat.com/ai/mistral-unleashes-pixtral-large-and-upgrades-le-chat-into-full-on-chatgpt-competitor - 18/11/2024
+
+- Watch out, Midjourney — Recraft just announced new AI image generator model : https://www.tomsguide.com/ai/ai-image-video/watch-out-midjourney-recraft-just-announced-new-ai-image-generator-model - 31/10/2024
+
+- GitHub Copilot will support models from Anthropic, Google, and OpenAI : https://www.theverge.com/2024/10/29/24282544/github-copilot-multi-model-anthropic-google-open-ai-github-spark-announcement - 30/10/2024
+
+- Meta AI Silently Releases NotebookLlama: An Open Version of Google’s NotebookLM : https://www.marktechpost.com/2024/10/27/meta-ai-silently-releases-notebookllama-an-open-source-alternative-to-googles-notebooklm - 27/10/2024
+
+- Mochi 1: A new SOTA in open-source video generation models : https://www.genmo.ai/blog - 23/10/2024
+
+- Google DeepMind is making its AI text watermark open source : https://www.technologyreview.com/2024/10/23/1106105/google-deepmind-is-making-its-ai-text-watermark-open-source - 23/10/2024
+
+- OpenAI Unveils Secret Meta Prompt—And It’s Very Different From Anthropic's Approach : https://decrypt.co/285854/openai-secret-meta-prompt-anthropic - 15/10/2024
+
+- INTELLECT-1: Launching the First Decentralized Training of a 10B Parameter Model : https://www.primeintellect.ai/blog/intellect-1 - 11/10/2024
+
+- All Gemini users can now generate images with Imagen 3 : https://9to5google.com/2024/10/09/gemini-imagen-3 - 09/10/2024
+
+- Meta announces Movie Gen, an AI-powered video generator : https://www.theverge.com/2024/10/4/24261990/meta-movie-gen-ai-video-generator-openai-sora - 05/10/2024
+
+- Black Forest Labs releases Flux 1.1 Pro and an API : https://venturebeat.com/ai/black-forest-labs-releases-flux-1-1-pro-and-an-api - 03/10/2024
+
+- Google brings ads to AI Overviews as it expands AI's role in search : https://techcrunch.com/2024/10/03/google-brings-ads-to-ai-overviews-and-rolls-out-ai-organized-pages - 03/10/2024
+
+- Meta Releases Llama 3.2—and Gives Its AI a Voice : https://www.wired.com/story/meta-releases-new-llama-model-ai-voice - 25/09/2024
+
 - Llama 3.2: Revolutionizing edge AI and vision with open, customizable models : https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/ - 25/09/2024
 
 - Introducing Molmo: A Family of State-of-the-Art Open Multimodal Models : https://www.businesswire.com/news/home/20240925326133/en/Introducing-Molmo-A-Family-of-State-of-the-Art-Open-Multimodal-Models - https://molmo.allenai.org/blog - 25/09/2024
 
 - AnyGraph: An Effective and Efficient Graph Foundation Model Designed to Address the Multifaceted Challenges of Structure and Feature Heterogeneity Across Diverse Graph Datasets : https://www.marktechpost.com/2024/09/02/anygraph-an-effective-and-efficient-graph-foundation-model-designed-to-address-the-multifaceted-challenges-of-structure-and-feature-heterogeneity-across-diverse-graph-datasets/ - 02/09/2024
-
-- Alibaba releases new AI model Qwen2-VL that can analyze videos more than 20 minutes long : https://venturebeat.com/ai/alibaba-releases-new-ai-model-qwen2-vl-that-can-analyze-videos-more-than-20-minutes-long - 29/08/2024
 
 - Forget Sora — MiniMax is a new realistic AI video generator and it’s seriously impressive : https://www.tomsguide.com/ai/ai-image-video/forget-sora-minimax-is-a-new-realistic-ai-video-generator-and-it-is-seriously-impressive - 02/09/2024
 
@@ -14,11 +70,15 @@
 
 - 100M Token Context Windows : https://magic.dev/blog/100m-token-context-windows - 29/08/2024
 
+- Alibaba releases new AI model Qwen2-VL that can analyze videos more than 20 minutes long : https://venturebeat.com/ai/alibaba-releases-new-ai-model-qwen2-vl-that-can-analyze-videos-more-than-20-minutes-long - 29/08/2024
+
 - OpenAI Aims to Release New AI Model, ‘Strawberry,’ in Fall : https://www.pymnts.com/news/artificial-intelligence/2024/openai-aims-release-new-ai-model-strawberry-fall/ - 27/08/2024
+
+- Hermes 3 : https://nousresearch.com/hermes3/ - 24/08/2024
 
 - Microsoft reveals Phi-3.5 — this new small AI model outperforms Gemini and GPT-4o : https://www.tomsguide.com/ai/microsoft-reveals-phi-35-this-new-small-ai-model-outperforms-gemini-and-gpt-4o - 23/08/2024
 
-- Ideogram AI expands its features with v2 model and color palette options : https://www.testingcatalog.com/ideogram-ai-expands-its-features-with-v2-model-and-color-palette-options/ - 21/08/2024
+- Ideogram AI expands its features with v2 model and color palette options : https://www.testingcatalog.com/ideogram-ai-expands-its-features-with-v2-model-and-color-palette-options/ - https://about.ideogram.ai/2.0 - 21/08/2024
 
 - Luma drops Dream Machine 1.5 — here’s what’s new : https://www.tomsguide.com/ai/ai-image-video/luma-drops-dream-machine-15-heres-whats-new - 20/08/2024
 
@@ -54,9 +114,9 @@
 
 - Microsoft is adding AI-powered summaries to Bing search results : https://www.engadget.com/microsoft-is-adding-ai-powered-summaries-to-bing-search-results-203053790.html - 25/07/2024
 
--  Large Enough (Mistral Large 2) : https://mistral.ai/news/mistral-large-2407/ - 24/07/2024
+-  Large Enough (Mistral Large 2) : https://mistral.ai/news/mistral-large-2407 - 24/07/2024
 
-- Introducing Llama 3.1: Our most capable models to date : https://ai.meta.com/blog/meta-llama-3-1 and https://llama.meta.com/ - 23/07/2024
+- Introducing Llama 3.1: Our most capable models to date : https://ai.meta.com/blog/meta-llama-3-1 and https://llama.meta.com - 23/07/2024
 
 - SearchGPT Prototype : https://openai.com/index/searchgpt-prototype - 25/07/2024
 

@@ -4,6 +4,48 @@ A valuable collection of latest information and learning resources on NLP, Trans
 
 ## Lastest News
 
+## Last News
+
+- Meta unveils a new, more efficient Llama model : https://techcrunch.com/2024/12/06/meta-unveils-a-new-more-efficient-llama-model - 06/12/2024
+
+- Google’s new generative AI video model is now available : https://www.theverge.com/2024/12/4/24312938/google-veo-generative-ai-video-model-available-preview - 04/12/2024
+
+- DeepMind’s Genie 2 can generate interactive worlds that look like video games : https://techcrunch.com/2024/12/04/deepminds-genie-2-can-generate-interactive-worlds-that-look-like-video-games - 04/12/2024
+
+- Tencent Launches HunyuanVideo, an Open-Source AI Video Model : https://www.maginative.com/article/tencent-launches-hunyuanvideo-an-open-source-ai-video-model - 03/12/2024
+
+- Amazon Is Building a Mega AI Supercomputer With Anthropic : https://www.wired.com/story/amazon-reinvent-anthropic-supercomputer - 03/12/2024
+
+- Amazon announces Nova, a new family of multimodal AI models : https://techcrunch.com/2024/12/03/amazon-announces-nova-a-new-family-of-multimodal-ai-models - 03/12/2024
+
+- PRIME Intellect Releases INTELLECT-1 (Instruct + Base): The First 10B Parameter Language Model Collaboratively Trained Across the Globe : https://www.marktechpost.com/2024/11/29/prime-intellect-releases-intellect-1-instruct-base-the-first-10b-parameter-language-model-collaboratively-trained-across-the-globe - 29/11/2024
+
+- ElevenLabs launches GenFM to turn user content into AI-powered podcasts : https://www.testingcatalog.com/elevenlabs-launches-genfm-to-turn-user-content-into-ai-powered-podcasts - 28/11/2024
+
+- Runway launches Frames — a new AI image generator that creates custom worlds : https://www.tomsguide.com/ai/runway-launches-frames-a-new-ai-image-generator-that-creates-custom-worlds - 26/11/2024
+
+- Introducing FLUX.1 Tools : https://blackforestlabs.ai/flux-1-tools - 21/11/2024
+
+- OpenScholar: The open-source A.I. that’s outperforming GPT-4o in scientific research : https://venturebeat.com/ai/openscholar-the-open-source-a-i-thats-outperforming-gpt-4o-in-scientific-research - 20/11/2024
+
+- DeepSeek’s first reasoning model R1-Lite-Preview turns heads, beating OpenAI o1 performance : https://venturebeat.com/ai/deepseeks-first-reasoning-model-r1-lite-preview-turns-heads-beating-openai-o1-performance - 20/11/2024
+
+- A statistical approach to model evaluations : https://www.anthropic.com/research/statistical-approach-to-model-evals - 20/11/2024
+
+- Suno V4 Ai Music Generator Is Out Now And It’s Very Impressive : https://9meters.com/entertainment/music-entertainment/suno-v4-is-out-now-features-release-date-whats-new - 20/11/2024
+
+- Google’s Gemini chatbot now has memory : https://techcrunch.com/2024/11/19/googles-gemini-chatbot-now-has-memory - 19/11/2024
+
+- Perplexity introduces a shopping feature for Pro users in the US : https://techcrunch.com/2024/11/18/perplexity-introduces-a-shopping-feature-for-pro-users - 18/11/2024
+
+- Mistral unleashes Pixtral Large and upgrades Le Chat into full-on ChatGPT competitor : https://venturebeat.com/ai/mistral-unleashes-pixtral-large-and-upgrades-le-chat-into-full-on-chatgpt-competitor - 18/11/2024
+
+- Watch out, Midjourney — Recraft just announced new AI image generator model : https://www.tomsguide.com/ai/ai-image-video/watch-out-midjourney-recraft-just-announced-new-ai-image-generator-model - 31/10/2024
+
+- GitHub Copilot will support models from Anthropic, Google, and OpenAI : https://www.theverge.com/2024/10/29/24282544/github-copilot-multi-model-anthropic-google-open-ai-github-spark-announcement - 30/10/2024
+
+- Meta AI Silently Releases NotebookLlama: An Open Version of Google’s NotebookLM : https://www.marktechpost.com/2024/10/27/meta-ai-silently-releases-notebookllama-an-open-source-alternative-to-googles-notebooklm - 27/10/2024
+
 - Mochi 1: A new SOTA in open-source video generation models : https://www.genmo.ai/blog - 23/10/2024
 
 - Google DeepMind is making its AI text watermark open source : https://www.technologyreview.com/2024/10/23/1106105/google-deepmind-is-making-its-ai-text-watermark-open-source - 23/10/2024
