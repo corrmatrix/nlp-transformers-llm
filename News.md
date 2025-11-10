@@ -1,5 +1,46 @@
 ## Last News
 
+- Google Injects Gemini Into Chrome as AI Browsers Go Mainstream : https://www.wired.com/story/google-gemini-ai-chrome-browser - 18/11/2025
+
+- OpenAI upgrades Codex with a new version of GPT-5 : https://techcrunch.com/2025/09/15/openai-upgrades-codex-with-a-new-version-of-gpt-5 - 15/11/2025
+
+- Anthropic's Claude can now make you a spreadsheet or slide deck : https://www.theverge.com/anthropic/774338/anthropics-claude-can-now-make-you-a-spreadsheet-or-slide-deck : https://claude.com/blog/create-files - 10/11/2025
+
+- Google Gemini's AI image model gets a 'bananas' upgrade : https://techcrunch.com/2025/08/26/google-geminis-ai-image-model-gets-a-bananas-upgrade - 26/08/2025
+
+- Anthropic launches a Claude AI agent that lives in Chrome : 
+https://techcrunch.com/2025/08/26/anthropic-launches-a-claude-ai-agent-that-lives-in-chrome - 26/08/2025
+
+- Meta AI Just Released DINOv3: A State-of-the-Art Computer Vision Model Trained with Self-Supervised Learning, Generating High-Resolution Image Features : https://www.marktechpost.com/2025/08/14/meta-ai-just-released-dinov3-a-state-of-the-art-computer-vision-model-trained-with-self-supervised-learning-generating-high-resolution-image-features - 14/08/2025
+
+- Google Launches AI ‘Guided Learning’ Tool to Teach Users : https://aibusiness.com/nlp/google-launches-ai-guided-learning-tool-to-teach-users - 11/08/2025
+
+- OpenAI’s GPT-5 is here : https://techcrunch.com/2025/08/07/openais-gpt-5-is-here - 07/08/2025
+
+- Anthropic Releases Claude Opus 4.1 With Agentic, Coding and Reasoning Upgrades : https://analyticsindiamag.com/ai-news-updates/anthropic-releases-claude-opus-4-1-with-agentic-coding-and-reasoning-upgrades - 05/08/2025
+
+- OpenAI Just Released Its First Open-Weight Models Since GPT-2 : https://www.wired.com/story/openai-just-released-its-first-open-weight-models-since-gpt-2 - 05/08/2025
+
+- Grok Imagine, xAI's new AI image and video generator, lets you make NSFW content : https://techcrunch.com/2025/08/04/grok-imagine-xais-new-ai-image-and-video-generator-lets-you-make-nsfw-content - 04/08/2025
+
+- Google rolls out Gemini Deep Think AI, a reasoning model that tests multiple ideas in parallel : https://techcrunch.com/2025/08/01/google-rolls-out-gemini-deep-think-ai-a-reasoning-model-that-tests-multiple-ideas-in-parallel - 01/08/2025
+
+- OpenAI’s new ChatGPT Agent can control an entire computer and do tasks for you : https://www.theverge.com/ai-artificial-intelligence/709158/openai-new-release-chatgpt-agent-operator-deep-research - 18/07/2025
+
+- Alibaba-backed Moonshot releases new Kimi AI model that beats ChatGPT, Claude in coding — and it costs less : https://www.cnbc.com/2025/07/14/alibaba-backed-moonshot-releases-kimi-k2-ai-rivaling-chatgpt-claude.html - 14/07/2025
+
+- Perplexity launches Comet, an AI-powered web browser : https://techcrunch.com/2025/07/09/perplexity-launches-comet-an-ai-powered-web-browser - 09/07/2025
+
+- Elon Musk's xAI launches Grok 4 alongside a $300 monthly subscription : https://techcrunch.com/2025/07/09/elon-musks-xai-launches-grok-4-alongside-a-300-monthly-subscription - 09/07/2025
+
+- Hugging Face Releases SmolLM3: A 3B Long-Context, Multilingual Reasoning Model : https://www.marktechpost.com/2025/07/08/hugging-face-releases-smollm3-a-3b-long-context-multilingual-reasoning-model - 09/07/2025
+
+- As job losses loom, Anthropic launches program to track AI’s economic fallout : https://techcrunch.com/2025/06/27/as-job-losses-loom-anthropic-launches-program-to-track-ais-economic-fallout - 27/06/2025
+
+- Google's Imagen 4 text-to-image model promises 'significantly improved' boring images : https://www.engadget.com/ai/googles-imagen-4-text-to-image-model-promises-significantly-improved-boring-images-111711517.html - 25/06/2025
+
+- Google is bringing Gemini CLI to developers' terminals : https://www.theverge.com/news/692517/google-gemini-cli-ai-agent-dev-terminal - 25/06/2025
+
 - Meta unveils a new, more efficient Llama model : https://techcrunch.com/2024/12/06/meta-unveils-a-new-more-efficient-llama-model - 06/12/2024
 
 - Google’s new generative AI video model is now available : https://www.theverge.com/2024/12/4/24312938/google-veo-generative-ai-video-model-available-preview - 04/12/2024
