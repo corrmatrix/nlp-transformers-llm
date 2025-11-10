@@ -359,6 +359,16 @@ https://techcrunch.com/2025/08/26/anthropic-launches-a-claude-ai-agent-that-live
 
 ## Articles and research papers
 
+- K2-Think: A Parameter-Efficient Reasoning System : https://arxiv.org/abs/2509.07604 - 09/09/2025
+
+- Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination : https://arxiv.org/abs/2507.10532 - 14/07/2025
+
+- Correlated Errors in Large Language Models : https://arxiv.org/abs/2506.07962v1 - 09/06/2025
+
+- Densing Law of LLMs : https://arxiv.org/abs/2412.04315 - 05/12/2024
+
+- DeMo: Decoupled Momentum Optimization : https://arxiv.org/abs/2411.19870 - 29/11/2024
+
 - Does your LLM truly unlearn? An embarrassingly simple approach to recover unlearned knowledge : https://arxiv.org/abs/2410.16454 - 21/10/2024
 
 - Diffusion Models Are Real-Time Game Engines : https://arxiv.org/abs/2408.14837v1 - 27/08/2024
